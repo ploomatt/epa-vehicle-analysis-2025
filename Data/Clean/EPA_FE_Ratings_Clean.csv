@@ -1,0 +1,869 @@
+Model_Year,Manufacturer,Brand,Model,Engine_Displacement,Cylinders,Transmission,Num_Gears,Drive_Type,City_MPG,Hwy_MPG,Combined_MPG,Vehicle_Class,Annual_Fuel_Cost,FE_Rating,GHG_Rating,City_CO2,Hwy_CO2,Combined_CO2,Savings_5yr,Extra_Spend_5yr,Gas_Guzzler,Air_Aspiration,StopStart_System
+2025,Honda,Acura,ADX AWD,1.5,4,Auto(AV-S7),7,All Wheel Drive,25,30,27,Small Station Wagons,2350,5,5,355,291,329,,2250.0,,Turbocharged,Yes
+2025,Honda,Acura,ADX FWD,1.5,4,Auto(AV-S7),7,"2-Wheel Drive, Front",26,31,28,Small Station Wagons,2300,6,6,341,286,317,,2000.0,,Turbocharged,Yes
+2025,Honda,Acura,INTEGRA,1.5,4,Auto(AV-S7),7,"2-Wheel Drive, Front",30,37,33,Large Cars,1950,6,6,296,237,269,,250.0,,Turbocharged,Yes
+2025,Honda,Acura,INTEGRA,2.0,4,Manual(M6),6,"2-Wheel Drive, Front",21,28,24,Large Cars,2650,5,5,419,312,371,,3750.0,,Turbocharged,No
+2025,Honda,Acura,INTEGRA A-SPEC,1.5,4,Auto(AV-S7),7,"2-Wheel Drive, Front",29,36,32,Large Cars,2000,6,6,304,245,277,,500.0,,Turbocharged,Yes
+2025,Honda,Acura,INTEGRA A-SPEC,1.5,4,Manual(M6),6,"2-Wheel Drive, Front",26,36,30,Large Cars,2100,6,6,339,241,293,,1000.0,,Turbocharged,Yes
+2025,Honda,Acura,MDX AWD,3.5,6,Auto(S10),10,All Wheel Drive,19,25,21,Small SUV 4WD,3050,4,4,477,357,423,,5750.0,,Naturally Aspirated,Yes
+2025,Honda,Acura,MDX AWD Type-S,3.0,6,Auto(S10),10,All Wheel Drive,17,21,19,Standard SUV 4WD,3350,4,4,523,414,474,,7250.0,,Turbocharged,Yes
+2025,Honda,Acura,MDX FWD,3.5,6,Auto(S10),10,"2-Wheel Drive, Front",19,26,22,Small SUV 2WD,2900,5,5,470,339,411,,5000.0,,Naturally Aspirated,Yes
+2025,Honda,Acura,RDX AWD,2.0,4,Auto(S10),10,All Wheel Drive,21,27,23,Small SUV 4WD,2750,5,5,415,322,385,,4250.0,,Turbocharged,Yes
+2025,Honda,Acura,RDX AWD A-SPEC,2.0,4,Auto(S10),10,All Wheel Drive,21,26,23,Small SUV 4WD,2750,5,5,423,342,386,,4250.0,,Turbocharged,Yes
+2025,Honda,Acura,TLX AWD A-SPEC,2.0,4,Auto(S10),10,All Wheel Drive,21,29,24,Compact Cars,2650,5,5,425,305,371,,3750.0,,Turbocharged,Yes
+2025,Honda,Acura,TLX FWD,2.0,4,Auto(S10),10,"2-Wheel Drive, Front",22,31,25,Compact Cars,2550,5,5,404,289,352,,3250.0,,Turbocharged,Yes
+2025,Honda,Acura,TLX Type-S,3.0,6,Auto(S10),10,All Wheel Drive,19,25,21,Compact Cars,3050,4,4,464,353,420,,5750.0,,Turbocharged,Yes
+2025,FCA US LLC,ALFA ROMEO,Giulia,2.0,4,Auto(A8),8,"2-Wheel Drive, Rear",24,33,27,Midsize Cars,2350,5,5,377,273,330,,2250.0,,Turbocharged,Yes
+2025,FCA US LLC,ALFA ROMEO,Giulia AWD,2.0,4,Auto(A8),8,All Wheel Drive,23,31,26,Midsize Cars,2450,5,5,395,291,348,,2750.0,,Turbocharged,Yes
+2025,FCA US LLC,ALFA ROMEO,Stelvio AWD,2.0,4,Auto(A8),8,All Wheel Drive,22,28,24,Small SUV 4WD,2650,5,5,407,311,364,,3750.0,,Turbocharged,Yes
+2025,FCA US LLC,ALFA ROMEO,Tonale AWD,2.0,4,Auto(A9),9,All Wheel Drive,21,29,24,Small SUV 4WD,2200,5,5,425,308,372,,1500.0,,Turbocharged,Yes
+2025,aston martin,Aston Martin Lagonda Ltd,DB12 V8,4.0,8,Auto(A8),8,"2-Wheel Drive, Rear",15,22,17,Minicompact Cars,3750,3,3,599,395,507,,9250.0,,Turbocharged,No
+2025,aston martin,Aston Martin Lagonda Ltd,DBX 707,4.0,8,Auto(A9),9,4-Wheel Drive,15,20,17,Standard SUV 4WD,3750,3,3,602,457,536,,9250.0,,Turbocharged,No
+2025,aston martin,Aston Martin Lagonda Ltd,Vanquish,5.2,12,Auto(A8),8,"2-Wheel Drive, Rear",13,21,16,Two Seaters,4000,3,3,671,431,563,,10500.0,G,Turbocharged,No
+2025,aston martin,Aston Martin Lagonda Ltd,Vantage,4.0,8,Auto(A8),8,"2-Wheel Drive, Rear",15,22,18,Two Seaters,3550,4,4,579,399,498,,8250.0,,Turbocharged,No
+2025,Volkswagen Group of,Audi,A3 quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,24,34,28,Subcompact Cars,2300,6,6,364,262,318,,2000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A4 allroad quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,30,26,Small Station Wagons,2450,5,5,389,293,346,,2750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A4 quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,26,36,29,Compact Cars,2200,6,6,344,248,301,,1500.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A4 S line quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,32,26,Compact Cars,2450,5,5,389,279,339,,2750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A5 quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,22,31,26,Midsize Cars,2450,5,5,399,287,349,,2750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A5 Sportback quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,26,36,29,Midsize Cars,2200,6,6,344,248,301,,1500.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A5 Sportback S line quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,32,26,Midsize Cars,2450,5,5,389,279,339,,2750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A6 allroad quattro,3.0,6,Auto(AM-S7),7,All Wheel Drive,22,30,25,Midsize Station Wagons,2550,5,5,406,295,356,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A6 quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,24,31,26,Midsize Cars,2450,5,5,379,291,339,,2750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A6 quattro,3.0,6,Auto(AM-S7),7,All Wheel Drive,22,30,25,Midsize Cars,2550,5,5,406,295,356,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A7 quattro,3.0,6,Auto(AM-S7),7,All Wheel Drive,22,30,25,Midsize Cars,2550,5,5,406,295,356,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,A8 quattro,3.0,6,Auto(S8),8,All Wheel Drive,19,27,22,Large Cars,2900,5,5,480,334,414,,5000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q3,2.0,4,Auto(S8),8,All Wheel Drive,22,29,25,Small SUV 4WD,2100,5,5,406,303,360,,1000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q3 S line,2.0,4,Auto(S8),8,All Wheel Drive,20,28,23,Small SUV 4WD,2300,5,5,445,314,386,,2000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q5 quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,29,26,Small SUV 4WD,2450,5,5,382,301,346,,2750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q5 S line quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,22,28,25,Small SUV 4WD,2550,5,5,400,319,363,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q5 Sportback S line quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,22,28,25,Small SUV 4WD,2550,5,5,400,319,363,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q5 Sportback TFSI quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,22,30,25,Small SUV 4WD,2550,5,5,408,298,358,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q5 TFSI quattro,2.0,4,Auto(AM-S7),7,All Wheel Drive,22,30,25,Small SUV 4WD,2550,5,5,408,298,358,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q7,2.0,4,Auto(S8),8,All Wheel Drive,20,26,22,Standard SUV 4WD,2900,5,5,453,347,405,,5000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q7,3.0,6,Auto(S8),8,All Wheel Drive,18,23,20,Standard SUV 4WD,3200,4,4,492,380,442,,6500.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,Q8 quattro,3.0,6,Auto(S8),8,All Wheel Drive,17,23,19,Standard SUV 4WD,3350,4,4,514,392,459,,7250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,RS 3,2.5,5,Auto(AM-S7),7,All Wheel Drive,20,29,23,Subcompact Cars,2750,5,5,453,302,385,,4250.0,,Turbocharged,No
+2025,Volkswagen Group of,Audi,RS 5 Sportback,2.9,6,Auto(S8),8,All Wheel Drive,18,25,20,Midsize Cars,3200,4,4,502,361,438,,6500.0,,Turbocharged,No
+2025,Volkswagen Group of,Audi,RS 6 Avant,4.0,8,Auto(S8),8,All Wheel Drive,14,21,17,Midsize Station Wagons,3750,3,3,638,416,538,,9250.0,G,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,RS 7,4.0,8,Auto(S8),8,All Wheel Drive,14,21,17,Midsize Cars,3750,3,3,638,416,538,,9250.0,G,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,RS Q8 Performance,4.0,8,Auto(S8),8,All Wheel Drive,14,20,16,Standard SUV 4WD,4000,3,3,622,454,547,,10500.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,S3,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,31,26,Subcompact Cars,2450,5,5,392,285,344,,2750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,S4,3.0,6,Auto(S8),8,All Wheel Drive,20,29,24,Compact Cars,2650,5,5,433,308,377,,3750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,S5,3.0,6,Auto(AM-S7),7,All Wheel Drive,19,28,22,Midsize Cars,2900,5,5,466,314,397,,5000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,S5 Sportback,3.0,6,Auto(S8),8,All Wheel Drive,20,29,23,Midsize Cars,2750,5,5,444,311,384,,4250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,S6,2.9,6,Auto(S8),8,All Wheel Drive,19,27,22,Midsize Cars,2900,5,5,468,335,408,,5000.0,,Other,Yes
+2025,Volkswagen Group of,Audi,S7,2.9,6,Auto(S8),8,All Wheel Drive,19,27,22,Midsize Cars,2900,5,5,468,335,408,,5000.0,,Other,Yes
+2025,Volkswagen Group of,Audi,S8,4.0,8,Auto(S8),8,All Wheel Drive,15,24,18,Large Cars,3550,4,4,605,377,502,,8250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,SQ5,3.0,6,Auto(S8),8,All Wheel Drive,19,24,21,Small SUV 4WD,3050,4,4,474,370,427,,5750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,SQ5,3.0,6,Auto(AM-S7),7,All Wheel Drive,19,26,22,Small SUV 4WD,2900,5,5,460,336,404,,5000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,SQ5 Sportback,3.0,6,Auto(S8),8,All Wheel Drive,19,24,21,Small SUV 4WD,3050,4,4,474,370,427,,5750.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,SQ5 Sportback,3.0,6,Auto(AM-S7),7,All Wheel Drive,19,26,22,Small SUV 4WD,2900,5,5,460,336,404,,5000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,SQ7,4.0,8,Auto(S8),8,All Wheel Drive,15,21,17,Standard SUV 4WD,3750,3,3,604,425,524,,9250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Audi,SQ8,4.0,8,Auto(S8),8,All Wheel Drive,15,21,17,Standard SUV 4WD,3750,3,3,587,432,518,,9250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Bentley,Bentayga,4.0,8,Auto(S8),8,All Wheel Drive,14,21,16,Standard SUV 4WD,4000,3,3,650,433,553,,10500.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Bentley,Bentayga EWB,4.0,8,Auto(S8),8,All Wheel Drive,14,21,16,Standard SUV 4WD,4000,3,3,650,433,553,,10500.0,,Turbocharged,Yes
+2025,BMW,BMW,228 xDrive Gran Coupe,2.0,4,Auto(AM-S7),7,All Wheel Drive,26,38,30,Compact Cars,2100,6,6,333,233,288,,1000.0,,Turbocharged,Yes
+2025,BMW,BMW,230i Coupe,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",26,35,30,Subcompact Cars,2100,6,6,333,251,296,,1000.0,,Turbocharged,Yes
+2025,BMW,BMW,230i xDrive Coupe,2.0,4,Auto(S8),8,All Wheel Drive,25,33,28,Subcompact Cars,2300,6,6,355,262,313,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,330i Sedan,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",28,35,31,Compact Cars,2050,6,6,317,248,286,,750.0,,Turbocharged,Yes
+2025,BMW,BMW,330i xDrive Sedan,2.0,4,Auto(S8),8,All Wheel Drive,26,34,29,Compact Cars,2200,6,6,332,256,298,,1500.0,,Turbocharged,Yes
+2025,BMW,BMW,430i Convertible,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",27,35,30,Subcompact Cars,2100,6,6,329,253,295,,1000.0,,Turbocharged,Yes
+2025,BMW,BMW,430i Coupe,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",28,36,31,Subcompact Cars,2050,6,6,315,248,285,,750.0,,Turbocharged,Yes
+2025,BMW,BMW,430i Gran Coupe,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",27,35,30,Compact Cars,2100,6,6,320,252,290,,1000.0,,Turbocharged,Yes
+2025,BMW,BMW,430i xDrive Convertible,2.0,4,Auto(S8),8,All Wheel Drive,24,33,28,Subcompact Cars,2300,6,6,359,263,316,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,430i xDrive Coupe,2.0,4,Auto(S8),8,All Wheel Drive,27,34,30,Subcompact Cars,2100,6,6,325,256,294,,1000.0,,Turbocharged,Yes
+2025,BMW,BMW,430i xDrive Gran Coupe,2.0,4,Auto(S8),8,All Wheel Drive,25,34,29,Compact Cars,2200,6,6,345,257,305,,1500.0,,Turbocharged,Yes
+2025,BMW,BMW,530i Sedan,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",28,35,31,Midsize Cars,2050,6,6,315,249,285,,750.0,,Turbocharged,Yes
+2025,BMW,BMW,530i xDrive Sedan,2.0,4,Auto(S8),8,All Wheel Drive,27,35,30,Midsize Cars,2100,6,6,325,253,292,,1000.0,,Turbocharged,Yes
+2025,BMW,BMW,540i xDrive Sedan,3.0,6,Auto(S8),8,All Wheel Drive,26,33,28,Midsize Cars,2300,6,6,339,267,307,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,740i Sedan,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",25,31,28,Large Cars,2300,6,6,347,279,317,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,740i xDrive Sedan,3.0,6,Auto(S8),8,All Wheel Drive,24,31,27,Large Cars,2350,5,5,359,285,326,,2250.0,,Turbocharged,Yes
+2025,BMW,BMW,760i xDrive Sedan,4.4,8,Auto(S8),8,All Wheel Drive,18,25,20,Large Cars,3200,4,4,494,344,427,,6500.0,,Turbocharged,Yes
+2025,BMW,BMW,840i Convertible,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",21,29,24,Subcompact Cars,2650,5,5,420,305,368,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,840i Coupe,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",21,29,24,Subcompact Cars,2650,5,5,420,305,368,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,840i Gran Coupe,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",21,29,24,Midsize Cars,2650,5,5,420,305,368,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,840i xDrive Convertible,3.0,6,Auto(S8),8,All Wheel Drive,21,29,24,Subcompact Cars,2650,5,5,426,308,373,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,840i xDrive Coupe,3.0,6,Auto(S8),8,All Wheel Drive,21,29,24,Subcompact Cars,2650,5,5,426,308,373,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,840i xDrive Gran Coupe,3.0,6,Auto(S8),8,All Wheel Drive,21,29,24,Midsize Cars,2650,5,5,426,308,373,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,ALPINA B8 Gran Coupe,4.4,8,Auto(S8),8,All Wheel Drive,17,24,19,Midsize Cars,3350,4,4,530,371,458,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M2 Coupe,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",16,23,19,Subcompact Cars,3350,4,4,552,377,473,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M2 Coupe,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",16,23,19,Subcompact Cars,3350,4,4,535,381,466,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M235 xDrive Gran Coupe,2.0,4,Auto(AM-S7),7,All Wheel Drive,24,33,27,Compact Cars,2350,5,5,368,264,321,,2250.0,,Turbocharged,Yes
+2025,BMW,BMW,M240i Coupe,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",23,32,26,Subcompact Cars,2450,5,5,391,276,339,,2750.0,,Turbocharged,Yes
+2025,BMW,BMW,M240i xDrive Coupe,3.0,6,Auto(S8),8,All Wheel Drive,23,32,26,Subcompact Cars,2450,5,5,387,274,336,,2750.0,,Turbocharged,Yes
+2025,BMW,BMW,M3 Competition M xDrive Sedan,3.0,6,Auto(S8),8,All Wheel Drive,16,23,18,Compact Cars,3550,4,4,556,381,477,,8250.0,,Turbocharged,Yes
+2025,BMW,BMW,M3 Competition Sedan,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",16,23,19,Compact Cars,3350,4,4,541,383,470,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M3 Sedan,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",16,23,19,Compact Cars,3350,4,4,548,379,472,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M340i Sedan,3.0,4,Auto(S8),8,"2-Wheel Drive, Rear",27,33,29,Compact Cars,2200,6,6,326,265,299,,1500.0,,Turbocharged,Yes
+2025,BMW,BMW,M340i xDrive Sedan,3.0,4,Auto(S8),8,All Wheel Drive,26,33,29,Compact Cars,2200,6,6,336,264,304,,1500.0,,Turbocharged,Yes
+2025,BMW,BMW,M4 Competition Coupe,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",16,23,19,Subcompact Cars,3350,4,4,541,383,470,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M4 Competition M xDrive Coupe,3.0,6,Auto(S8),8,All Wheel Drive,16,23,18,Subcompact Cars,3550,4,4,547,381,472,,8250.0,,Turbocharged,Yes
+2025,BMW,BMW,M4 Coupe,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",16,23,19,Subcompact Cars,3350,4,4,548,379,472,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M4 CS Coupe,3.0,6,Auto(S8),8,All Wheel Drive,16,23,18,Subcompact Cars,3550,4,4,557,382,478,,8250.0,,Turbocharged,Yes
+2025,BMW,BMW,M440i Convertible,3.0,4,Auto(S8),8,"2-Wheel Drive, Rear",27,33,29,Subcompact Cars,2200,6,6,328,267,301,,1500.0,,Turbocharged,Yes
+2025,BMW,BMW,M440i Coupe,3.0,4,Auto(S8),8,"2-Wheel Drive, Rear",27,34,30,Subcompact Cars,2100,6,6,323,262,296,,1000.0,,Turbocharged,Yes
+2025,BMW,BMW,M440i Gran Coupe,3.0,4,Auto(S8),8,"2-Wheel Drive, Rear",26,32,28,Compact Cars,2300,6,6,342,275,312,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,M440i xDrive Convertible,3.0,4,Auto(S8),8,All Wheel Drive,25,32,28,Subcompact Cars,2300,6,6,344,273,312,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,M440i xDrive Coupe,3.0,4,Auto(S8),8,All Wheel Drive,26,33,29,Subcompact Cars,2200,6,6,332,263,301,,1500.0,,Turbocharged,Yes
+2025,BMW,BMW,M440i xDrive Gran Coupe,3.0,4,Auto(S8),8,All Wheel Drive,25,31,27,Compact Cars,2350,5,5,350,284,320,,2250.0,,Turbocharged,Yes
+2025,BMW,BMW,M4CompetitionMxDriveConvertible,3.0,6,Auto(S8),8,All Wheel Drive,16,22,18,Subcompact Cars,3550,4,4,553,388,479,,8250.0,,Turbocharged,Yes
+2025,BMW,BMW,M8 Competition Convertible,4.4,8,Auto(S8),8,All Wheel Drive,15,22,17,Subcompact Cars,3750,3,3,604,411,517,,9250.0,G,Turbocharged,Yes
+2025,BMW,BMW,M8 Competition Coupe,4.4,8,Auto(S8),8,All Wheel Drive,15,22,17,Subcompact Cars,3750,3,3,604,411,517,,9250.0,G,Turbocharged,Yes
+2025,BMW,BMW,M8 Competition Gran Coupe,4.4,8,Auto(S8),8,All Wheel Drive,15,22,17,Midsize Cars,3750,3,3,604,411,517,,9250.0,G,Turbocharged,Yes
+2025,BMW,BMW,M850i xDrive Convertible,4.4,8,Auto(S8),8,All Wheel Drive,17,24,19,Subcompact Cars,3350,4,4,530,371,458,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M850i xDrive Coupe,4.4,8,Auto(S8),8,All Wheel Drive,17,24,19,Subcompact Cars,3350,4,4,526,371,456,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,M850i xDrive Gran Coupe,4.4,8,Auto(S8),8,All Wheel Drive,17,24,19,Midsize Cars,3350,4,4,530,371,458,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,X1 M35i,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,31,26,Small SUV 4WD,2450,5,5,377,282,334,,2750.0,,Turbocharged,Yes
+2025,BMW,BMW,X1 xDrive28i,2.0,4,Auto(AM-S7),7,All Wheel Drive,24,33,28,Small SUV 4WD,2300,6,6,361,265,318,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,X2 M35i,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,32,26,Small SUV 4WD,2450,5,5,382,272,332,,2750.0,,Turbocharged,Yes
+2025,BMW,BMW,X2 xDrive28i,2.0,4,Auto(AM-S7),7,All Wheel Drive,24,33,28,Small SUV 4WD,2300,6,6,361,265,318,,2000.0,,Turbocharged,Yes
+2025,BMW,BMW,X3 M50i xDrive,3.0,4,Auto(S8),8,All Wheel Drive,25,30,27,Small SUV 4WD,2350,5,5,346,288,320,,2250.0,,Turbocharged,Yes
+2025,BMW,BMW,X3 xDrive30i,2.0,4,Auto(S8),8,All Wheel Drive,27,33,29,Small SUV 4WD,2200,6,6,327,265,299,,1500.0,,Turbocharged,Yes
+2025,BMW,BMW,X4 M,3.0,6,Auto(S8),8,All Wheel Drive,15,20,17,Small SUV 4WD,3750,3,3,587,437,519,,9250.0,,Turbocharged,Yes
+2025,BMW,BMW,X4 M Competition,3.0,6,Auto(S8),8,All Wheel Drive,15,20,17,Small SUV 4WD,3750,3,3,587,437,519,,9250.0,,Turbocharged,Yes
+2025,BMW,BMW,X4 M40i,3.0,6,Auto(S8),8,All Wheel Drive,22,26,23,Small SUV 4WD,2750,5,5,409,337,377,,4250.0,,Turbocharged,Yes
+2025,BMW,BMW,X4 xDrive30i,2.0,4,Auto(S8),8,All Wheel Drive,21,27,24,Small SUV 4WD,2650,5,5,413,321,372,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,X5 M Competition,4.4,8,Auto(S8),8,All Wheel Drive,13,18,15,Standard SUV 4WD,4250,2,2,678,481,589,,11750.0,,Turbocharged,Yes
+2025,BMW,BMW,X5 M60i xDrive,4.4,8,Auto(S8),8,All Wheel Drive,17,22,19,Standard SUV 4WD,3350,4,4,512,391,458,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,X5 sDrive40i,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",23,27,25,Standard SUV 2WD,2550,5,5,383,331,360,,3250.0,,Turbocharged,Yes
+2025,BMW,BMW,X5 xDrive40i,3.0,6,Auto(S8),8,All Wheel Drive,23,27,25,Standard SUV 4WD,2550,5,5,375,323,352,,3250.0,,Turbocharged,Yes
+2025,BMW,BMW,X6 M Competition,4.4,8,Auto(S8),8,All Wheel Drive,13,18,15,Standard SUV 4WD,4250,2,2,678,481,589,,11750.0,,Turbocharged,Yes
+2025,BMW,BMW,X6 M60i xDrive,4.4,8,Auto(S8),8,All Wheel Drive,17,22,19,Standard SUV 4WD,3350,4,4,512,391,458,,7250.0,,Turbocharged,Yes
+2025,BMW,BMW,X6 xDrive40i,3.0,6,Auto(S8),8,All Wheel Drive,23,26,24,Standard SUV 4WD,2650,5,5,382,331,359,,3750.0,,Turbocharged,Yes
+2025,BMW,BMW,X7 M60i xDrive,4.4,8,Auto(S8),8,All Wheel Drive,16,20,18,Standard SUV 4WD,3550,4,4,550,435,498,,8250.0,,Turbocharged,Yes
+2025,BMW,BMW,X7 xDrive40i,3.0,6,Auto(S8),8,All Wheel Drive,20,24,22,Standard SUV 4WD,2900,5,5,430,358,397,,5000.0,,Turbocharged,Yes
+2025,BMW,BMW,Z4 M40i,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",23,29,25,Two Seaters,2550,5,5,386,297,346,,3250.0,,Turbocharged,Yes
+2025,BMW,BMW,Z4 M40i,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",19,26,22,Two Seaters,2900,5,5,469,332,407,,5000.0,,Turbocharged,Yes
+2025,BMW,BMW,Z4 sDrive30i,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",25,33,28,Two Seaters,2300,6,6,351,266,312,,2000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Bugatti,Mistral,8.0,16,Auto(AM-S7),7,All Wheel Drive,8,12,9,Two Seaters,7100,1,1,1121,726,943,,26000.0,G,Turbocharged,No
+2025,General Motors,Buick,ENCLAVE AWD,2.5,4,Auto(A8),8,All Wheel Drive,19,24,21,Standard SUV 4WD,2500,4,4,462,374,422,,3000.0,,Turbocharged,Yes
+2025,General Motors,Buick,ENCLAVE FWD,2.5,4,Auto(A8),8,"2-Wheel Drive, Front",20,27,23,Standard SUV 2WD,2300,5,5,431,334,387,,2000.0,,Turbocharged,Yes
+2025,General Motors,Buick,ENCORE GX AWD,1.3,3,Auto(A9),9,All Wheel Drive,26,28,27,Small SUV 4WD,1950,5,5,347,328,339,,250.0,,Turbocharged,Yes
+2025,General Motors,Buick,ENCORE GX FWD,1.3,3,Auto(AV),1,"2-Wheel Drive, Front",29,31,30,Small SUV 2WD,1750,6,6,302,287,297,750.0,,,Turbocharged,Yes
+2025,General Motors,Buick,ENCORE GX FWD,1.2,3,Auto(AV),1,"2-Wheel Drive, Front",30,31,30,Small SUV 2WD,1750,6,6,293,284,297,750.0,,,Turbocharged,Yes
+2025,General Motors,Buick,ENVISION AWD,2.0,4,Auto(S9),9,All Wheel Drive,22,28,24,Small SUV 4WD,2200,5,5,404,315,371,,1500.0,,Turbocharged,Yes
+2025,General Motors,Buick,ENVISTA,1.2,3,Auto(A6),6,"2-Wheel Drive, Front",28,32,30,Small Station Wagons,1750,6,6,316,277,296,750.0,,,Turbocharged,Yes
+2025,General Motors,Buick,ENVISTA,1.2,3,Auto(A6),6,"2-Wheel Drive, Front",28,32,30,Small Station Wagons,1750,6,6,314,277,297,750.0,,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT4,2.7,4,Auto(S10),10,"2-Wheel Drive, Rear",21,31,25,Compact Cars,2550,5,5,412,287,356,,3250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT4 AWD,2.0,4,Auto(S8),8,All Wheel Drive,21,31,25,Compact Cars,2550,5,5,415,287,357,,3250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT4 AWD,2.7,4,Auto(S10),10,All Wheel Drive,21,29,24,Compact Cars,2650,5,5,425,305,371,,3750.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT4 V,2.7,4,Auto(S10),10,"2-Wheel Drive, Rear",20,29,23,Compact Cars,2750,5,5,444,309,383,,4250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT4 V,3.6,6,Auto(S10),10,"2-Wheel Drive, Rear",16,24,19,Compact Cars,3350,4,4,568,368,478,,7250.0,,Turbocharged,No
+2025,General Motors,Cadillac,CT4 V,3.6,6,Manual(M6),6,"2-Wheel Drive, Rear",15,23,18,Compact Cars,3550,4,4,591,387,493,,8250.0,,Turbocharged,No
+2025,General Motors,Cadillac,CT4 V AWD,2.7,4,Auto(S10),10,All Wheel Drive,20,28,23,Compact Cars,2750,5,5,445,318,387,,4250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT5,3.0,6,Auto(S10),10,"2-Wheel Drive, Rear",19,28,22,Midsize Cars,2900,5,5,466,318,399,,5000.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT5,2.0,4,Auto(S10),10,"2-Wheel Drive, Rear",23,32,26,Midsize Cars,2450,5,5,394,276,341,,2750.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT5 AWD,3.0,6,Auto(S10),10,All Wheel Drive,18,26,21,Midsize Cars,3050,4,4,491,338,422,,5750.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT5 AWD,2.0,4,Auto(S10),10,All Wheel Drive,21,30,25,Midsize Cars,2550,5,5,415,295,361,,3250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT5 V,3.0,6,Auto(S10),10,"2-Wheel Drive, Rear",18,27,21,Midsize Cars,3050,4,4,495,330,424,,5750.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,CT5 V,6.2,8,Auto(S10),10,"2-Wheel Drive, Rear",13,20,15,Midsize Cars,4250,2,2,697,436,579,,11750.0,G,Supercharged,No
+2025,General Motors,Cadillac,CT5 V,6.2,8,Manual(M6),6,"2-Wheel Drive, Rear",13,20,15,Midsize Cars,4250,2,2,708,438,587,,11750.0,G,Supercharged,No
+2025,General Motors,Cadillac,CT5 V AWD,3.0,6,Auto(S10),10,All Wheel Drive,17,26,20,Midsize Cars,3200,4,4,523,338,445,,6500.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,ESCALADE 2WD,6.2,8,Auto(A10),10,"2-Wheel Drive, Rear",15,19,17,Standard SUV 2WD,3750,3,3,594,467,537,,9250.0,,Naturally Aspirated,Yes
+2025,General Motors,Cadillac,ESCALADE 4WD,6.2,8,Auto(A10),10,4-Wheel Drive,14,18,16,Standard SUV 4WD,4000,3,3,634,495,572,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,Cadillac,ESCALADE V AWD,6.2,8,Auto(S10),10,4-Wheel Drive,11,17,13,Standard SUV 4WD,4900,1,1,782,523,683,,15000.0,,Supercharged,No
+2025,General Motors,Cadillac,XT4 AWD,2.0,4,Auto(S9),9,All Wheel Drive,23,28,25,Small SUV 4WD,2550,5,5,392,315,357,,3250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,XT4 FWD,2.0,4,Auto(S9),9,"2-Wheel Drive, Front",24,29,26,Small SUV 2WD,2450,5,5,376,303,343,,2750.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,XT5 AWD,2.0,4,Auto(S9),9,All Wheel Drive,21,27,23,Small SUV 4WD,2750,5,5,422,329,386,,4250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,XT5 AWD,3.6,6,Auto(S9),9,All Wheel Drive,18,26,21,Small SUV 4WD,2500,4,4,486,348,424,,3000.0,,Naturally Aspirated,Yes
+2025,General Motors,Cadillac,XT5 FWD,2.0,4,Auto(S9),9,"2-Wheel Drive, Front",22,29,24,Small SUV 2WD,2650,5,5,403,303,370,,3750.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,XT5 FWD,3.6,6,Auto(S9),9,"2-Wheel Drive, Front",19,26,21,Small SUV 2WD,2500,4,4,479,344,418,,3000.0,,Naturally Aspirated,Yes
+2025,General Motors,Cadillac,XT6 AWD,2.0,4,Auto(S9),9,All Wheel Drive,21,26,23,Small SUV 4WD,2750,5,5,422,341,386,,4250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,XT6 AWD,3.6,6,Auto(S9),9,All Wheel Drive,18,25,20,Small SUV 4WD,2600,4,4,497,360,435,,3500.0,,Naturally Aspirated,Yes
+2025,General Motors,Cadillac,XT6 FWD,2.0,4,Auto(S9),9,"2-Wheel Drive, Front",21,27,23,Small SUV 2WD,2750,5,5,418,324,386,,4250.0,,Turbocharged,Yes
+2025,General Motors,Cadillac,XT6 FWD,3.6,6,Auto(S9),9,"2-Wheel Drive, Front",19,26,21,Small SUV 2WD,2500,4,4,479,344,418,,3000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,BLAZER AWD,2.0,4,Auto(A9),9,All Wheel Drive,22,27,24,Small SUV 4WD,2200,5,5,402,328,368,,1500.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,BLAZER AWD,3.6,6,Auto(A9),9,All Wheel Drive,18,26,21,Small SUV 4WD,2500,4,4,485,345,422,,3000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,BLAZER FWD,2.0,4,Auto(A9),9,"2-Wheel Drive, Front",22,29,25,Small SUV 2WD,2100,5,5,390,302,350,,1000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,BLAZER FWD,3.6,6,Auto(A9),9,"2-Wheel Drive, Front",19,26,22,Small SUV 2WD,2400,5,5,467,342,411,,2500.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,COLORADO 2WD,2.7,4,Auto(A8),8,"2-Wheel Drive, Rear",19,23,20,Standard Pick-up Trucks 2WD,2600,4,4,472,388,434,,3500.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,COLORADO 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,21,19,Standard Pick-up Trucks 4WD,2750,4,4,520,446,487,,4250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,COLORADO 4WD MUD TERRAIN TIRES,2.7,4,Auto(A8),8,4-Wheel Drive,17,20,18,Standard Pick-up Trucks 4WD,2900,4,4,529,451,494,,5000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,COLORADO ZR2 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,17,17,Standard Pick-up Trucks 4WD,3100,3,3,531,522,527,,6000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,COLORADO ZR2 BISON 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,16,16,16,Standard Pick-up Trucks 4WD,3300,3,3,559,570,564,,7000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,CORVETTE,6.2,8,Auto(S8),8,"2-Wheel Drive, Rear",16,25,19,Two Seaters,3350,4,4,565,356,471,,7250.0,,Naturally Aspirated,No
+2025,General Motors,Chevrolet,CORVETTE E-RAY,6.2,8,Auto(S8),8,All Wheel Drive,16,24,19,Two Seaters,3350,4,4,566,368,477,,7250.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,CORVETTE Z06,5.5,8,Auto(S8),8,"2-Wheel Drive, Rear",12,20,14,Two Seaters,4550,2,2,755,442,614,,13250.0,G,Naturally Aspirated,No
+2025,General Motors,Chevrolet,CORVETTE Z06 CARBON AERO,5.5,8,Auto(S8),8,"2-Wheel Drive, Rear",12,19,14,Two Seaters,4550,2,2,756,478,631,,13250.0,G,Naturally Aspirated,No
+2025,General Motors,Chevrolet,CORVETTE ZR1,5.5,8,Auto(S8),8,"2-Wheel Drive, Rear",12,18,14,Two Seaters,4550,2,2,756,490,637,,13250.0,G,Turbocharged,No
+2025,General Motors,Chevrolet,EQUINOX AWD,1.5,4,Auto(A8),8,All Wheel Drive,24,29,26,Small SUV 4WD,2000,5,5,377,305,344,,500.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,EQUINOX FWD,1.5,4,Auto(AV),1,"2-Wheel Drive, Front",26,28,27,Small SUV 2WD,1950,5,5,346,314,332,,250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,MALIBU,1.5,4,Auto(AV),1,"2-Wheel Drive, Front",28,36,31,Midsize Cars,1700,6,6,313,246,283,1000.0,,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 2WD,3.0,6,Auto(A10),10,"2-Wheel Drive, Rear",23,29,26,Standard Pick-up Trucks 2WD,2350,5,5,434,356,399,,2250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 2WD,2.7,4,Auto(A8),8,"2-Wheel Drive, Rear",17,21,19,Standard Pick-up Trucks 2WD,2750,4,4,506,426,470,,4250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 2WD,2.7,4,Auto(A8),8,"2-Wheel Drive, Rear",18,21,19,Standard Pick-up Trucks 2WD,2750,4,4,503,426,468,,4250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",16,21,18,Standard Pick-up Trucks 2WD,2900,4,4,540,429,490,,5000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",16,21,18,Standard Pick-up Trucks 2WD,2900,4,4,555,414,491,,5000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 2WD CAB CHASSIS,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",15,18,16,Special Purpose Vehicle cab chassis,3300,3,3,589,504,551,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD,3.0,6,Auto(A10),10,4-Wheel Drive,22,26,24,Standard Pick-up Trucks 4WD,2550,5,4,459,391,428,,3250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD,3.0,6,Auto(A10),10,4-Wheel Drive,22,25,23,Standard Pick-up Trucks 4WD,2650,5,4,463,399,434,,3750.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,20,18,Standard Pick-up Trucks 4WD,2900,4,4,512,446,482,,5000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,20,18,Standard Pick-up Trucks 4WD,2900,4,4,511,443,481,,5000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard Pick-up Trucks 4WD,3100,3,3,576,462,524,,6000.0,,Naturally Aspirated,No
+2025,General Motors,Chevrolet,SILVERADO 4WD,6.2,8,Auto(A10),10,4-Wheel Drive,15,20,17,Standard Pick-up Trucks 4WD,3750,3,3,592,450,528,,9250.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,16,Standard Pick-up Trucks 4WD,3300,3,3,604,475,546,,7000.0,,Naturally Aspirated,No
+2025,General Motors,Chevrolet,SILVERADO 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,16,19,17,Standard Pick-up Trucks 4WD,3100,3,3,565,465,520,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,16,19,17,Standard Pick-up Trucks 4WD,3100,3,3,570,470,525,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD CAB CHASSIS,5.3,8,Auto(A10),10,4-Wheel Drive,14,16,15,Special Purpose Vehicle cab chassis,3500,2,2,633,542,592,,8000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,3.0,6,Auto(A10),10,4-Wheel Drive,21,24,23,Standard Pick-up Trucks 4WD,2650,5,4,475,420,450,,3750.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,3.0,6,Auto(A10),10,4-Wheel Drive,21,24,22,Standard Pick-up Trucks 4WD,2800,5,4,478,429,456,,4500.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,2.7,4,Auto(A8),8,4-Wheel Drive,16,17,16,Standard Pick-up Trucks 4WD,3300,3,3,554,527,541,,7000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,2.7,4,Auto(A8),8,4-Wheel Drive,16,17,16,Standard Pick-up Trucks 4WD,3300,3,3,552,521,538,,7000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard Pick-up Trucks 4WD,3100,3,3,576,462,524,,6000.0,,Naturally Aspirated,No
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,6.2,8,Auto(A10),10,4-Wheel Drive,14,17,15,Standard Pick-up Trucks 4WD,4250,2,2,635,524,593,,11750.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,16,Standard Pick-up Trucks 4WD,3300,3,3,604,475,546,,7000.0,,Naturally Aspirated,No
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,18,16,Standard Pick-up Trucks 4WD,3300,3,3,585,496,545,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,18,16,Standard Pick-up Trucks 4WD,3300,3,3,585,496,545,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD ZR2,3.0,6,Auto(A10),10,4-Wheel Drive,20,23,21,Standard Pick-up Trucks 4WD,2950,4,4,504,448,479,,5250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SILVERADO 4WD ZR2,6.2,8,Auto(A10),10,4-Wheel Drive,14,17,15,Standard Pick-up Trucks 4WD,4250,2,2,638,535,591,,11750.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SUBURBAN 2WD,6.2,8,Auto(A10),10,"2-Wheel Drive, Rear",15,19,16,Standard SUV 2WD,4000,3,3,605,470,544,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SUBURBAN 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",15,20,17,Standard SUV 2WD,3100,3,3,592,453,530,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SUBURBAN 2WD,3.0,6,Auto(A10),10,"2-Wheel Drive, Rear",21,26,23,Standard SUV 2WD,2650,5,4,485,385,442,,3750.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,SUBURBAN 4WD,6.2,8,Auto(A10),10,4-Wheel Drive,14,18,16,Standard SUV 4WD,4000,3,3,634,495,572,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SUBURBAN 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,14,19,16,Standard SUV 4WD,3300,3,3,645,481,571,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,SUBURBAN 4WD,3.0,6,Auto(A10),10,4-Wheel Drive,20,26,22,Standard SUV 4WD,2800,5,4,504,395,455,,4500.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TAHOE 2WD,6.2,8,Auto(A10),10,"2-Wheel Drive, Rear",15,20,17,Standard SUV 2WD,3750,3,3,587,444,523,,9250.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,TAHOE 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",15,20,17,Standard SUV 2WD,3100,3,3,592,453,530,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,TAHOE 2WD,3.0,6,Auto(A10),10,"2-Wheel Drive, Rear",22,26,24,Standard SUV 2WD,2550,5,4,457,391,427,,3250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TAHOE 4WD,6.2,8,Auto(A10),10,4-Wheel Drive,14,18,16,Standard SUV 4WD,4000,3,3,634,495,572,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,TAHOE 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard SUV 4WD,3100,3,3,594,462,535,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,Chevrolet,TAHOE 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,14,18,16,Standard SUV 4WD,3300,3,3,636,492,571,,7000.0,,Naturally Aspirated,No
+2025,General Motors,Chevrolet,TAHOE 4WD,3.0,6,Auto(A10),10,4-Wheel Drive,20,26,22,Standard SUV 4WD,2800,5,4,504,395,455,,4500.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TRAILBLAZER AWD,1.3,3,Auto(A9),9,All Wheel Drive,26,29,27,Small SUV 4WD,1950,5,5,342,305,329,,250.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TRAILBLAZER FWD,1.3,3,Auto(AV),1,"2-Wheel Drive, Front",29,33,31,Small SUV 2WD,1700,6,6,307,269,287,1000.0,,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TRAILBLAZER FWD,1.2,3,Auto(AV),1,"2-Wheel Drive, Front",30,31,30,Small SUV 2WD,1750,6,6,293,284,297,750.0,,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TRAVERSE AWD,2.5,4,Auto(A8),8,All Wheel Drive,19,24,21,Standard SUV 4WD,2500,4,4,462,374,422,,3000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TRAVERSE FWD,2.5,4,Auto(A8),8,"2-Wheel Drive, Front",20,27,23,Standard SUV 2WD,2300,5,5,431,334,388,,2000.0,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TRAX,1.2,3,Auto(A6),6,"2-Wheel Drive, Front",28,32,30,Small Station Wagons,1750,6,6,318,277,296,750.0,,,Turbocharged,Yes
+2025,General Motors,Chevrolet,TRAX,1.2,3,Auto(A6),6,"2-Wheel Drive, Front",28,31,29,Small Station Wagons,1800,6,6,322,286,306,500.0,,,Turbocharged,Yes
+2025,FCA US LLC,Chrysler,Pacifica,3.6,6,Auto(A9),9,"2-Wheel Drive, Front",19,28,22,"Special Purpose Vehicle, minivan 2WD",2400,5,5,469,317,401,,2500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Chrysler,Pacifica AWD,3.6,6,Auto(A9),9,All Wheel Drive,17,25,20,"Special Purpose Vehicle, minivan 4WD",2600,4,4,531,351,450,,3500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Chrysler,Voyager,3.6,6,Auto(A9),9,"2-Wheel Drive, Front",19,28,22,"Special Purpose Vehicle, minivan 2WD",2400,5,5,469,317,401,,2500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Dodge,Durango AWD,3.6,6,Auto(A8),8,All Wheel Drive,17,24,20,Standard SUV 4WD,2600,4,4,510,377,450,,3500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Dodge,Durango AWD,5.7,8,Auto(A8),8,All Wheel Drive,14,22,17,Standard SUV 4WD,3550,3,3,633,410,533,,8250.0,,Naturally Aspirated,No
+2025,FCA US LLC,Dodge,Durango RWD,3.6,6,Auto(A8),8,"2-Wheel Drive, Rear",18,25,20,Standard SUV 2WD,2600,4,4,503,361,439,,3500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Dodge,Durango RWD,5.7,8,Auto(A8),8,"2-Wheel Drive, Rear",14,22,17,Standard SUV 2WD,3550,3,3,628,399,525,,8250.0,,Naturally Aspirated,No
+2025,FCA US LLC,Dodge,Durango SRT AWD,6.2,8,Auto(A8),8,All Wheel Drive,12,17,13,Standard SUV 4WD,4900,1,1,773,520,659,,15000.0,,Supercharged,No
+2025,FCA US LLC,Dodge,Hornet AWD,2.0,4,Auto(A9),9,All Wheel Drive,21,29,24,Small SUV 4WD,2200,5,5,425,308,372,,1500.0,,Turbocharged,Yes
+2025,Ferrari,"Ferrari North America, Inc.",F167 ABA,6.5,12,Auto(AM8),8,"2-Wheel Drive, Rear",12,19,14,Two Seaters,4550,2,2,736,477,619,,13250.0,G,Naturally Aspirated,Yes
+2025,Ferrari,"Ferrari North America, Inc.",Ferrari Daytona SP3,6.5,12,Auto(AM7),7,"2-Wheel Drive, Rear",12,16,13,Two Seaters,4900,1,1,745,556,660,,15000.0,G,Naturally Aspirated,Yes
+2025,Ferrari,"Ferrari North America, Inc.",Roma Spider,3.9,8,Auto(AM8),8,"2-Wheel Drive, Rear",17,22,19,Minicompact Cars,3350,4,4,524,397,467,,7250.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO 4WD,2.3,4,Auto(S10),10,Part-time 4-Wheel Drive,18,22,20,Small SUV 4WD,2600,4,4,508,411,464,,3500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO 4WD,2.7,6,Auto(S10),10,Part-time 4-Wheel Drive,17,18,18,Small SUV 4WD,2900,4,4,523,482,494,,5000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO 4WD,2.3,4,Manual(M7),7,Part-time 4-Wheel Drive,18,21,19,Small SUV 4WD,2750,4,4,514,412,468,,4250.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO 4WD,2.7,6,Auto(S10),10,Part-time 4-Wheel Drive,17,18,18,Small SUV 4WD,2900,4,4,517,493,506,,5000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO BADLANDS 4WD,2.3,4,Auto(S10),10,Part-time 4-Wheel Drive,17,19,18,Small SUV 4WD,2900,4,4,554,472,517,,5000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO BADLANDS 4WD,2.3,4,Manual(M7),7,Part-time 4-Wheel Drive,17,18,17,Small SUV 4WD,3100,3,3,560,485,526,,6000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO OUTER BANKS 4WD,2.7,6,Auto(S10),10,Part-time 4-Wheel Drive,19,21,20,Standard SUV 4WD,2600,4,4,471,431,453,,3500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO RAPTOR 4WD,3.0,6,Auto(S10),10,Part-time 4-Wheel Drive,15,16,15,Standard SUV 4WD,3500,2,2,592,558,577,,8000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,2.3,4,Auto(S10),10,Part-time 4-Wheel Drive,17,19,18,Small SUV 4WD,2900,4,4,508,411,464,,5000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,2.3,4,Manual(M7),7,Part-time 4-Wheel Drive,17,19,18,Small SUV 4WD,2900,4,4,514,412,468,,5000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO SPORT 4WD,1.5,3,Auto(A8),8,Part-time 4-Wheel Drive,25,30,27,Small SUV 4WD,1950,5,5,350,293,324,,250.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO SPORT 4WD,2.0,4,Auto(S8),8,4-Wheel Drive,21,27,23,Small SUV 4WD,2300,5,5,424,330,387,,2000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,BRONCO SPORT SASQUATCH,1.5,3,Auto(A8),8,4-Wheel Drive,23,26,24,Small SUV 4WD,2200,5,5,387,341,370,,1500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,ESCAPE AWD,2.0,4,Auto(A8),8,All Wheel Drive,23,31,26,Small SUV 4WD,2000,5,5,387,274,336,,500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,ESCAPE AWD,1.5,3,Auto(A8),8,All Wheel Drive,26,32,28,Small SUV 4WD,1900,6,6,345,277,316,0.0,,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,ESCAPE AWD HEV,2.5,4,Auto(AV),1,Part-time 4-Wheel Drive,42,36,39,Small SUV 4WD,1350,7,7,208,246,225,2750.0,,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,ESCAPE FWD,1.5,3,Auto(A8),8,"2-Wheel Drive, Front",27,34,30,Small SUV 2WD,1750,6,6,333,256,298,750.0,,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,ESCAPE FWD HEV,2.5,4,Auto(AV),1,"2-Wheel Drive, Front",42,36,39,Small SUV 2WD,1350,7,7,208,246,225,2750.0,,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,EXPEDITION 2WD,3.5,6,Auto(S10),10,"2-Wheel Drive, Rear",16,24,19,Standard SUV 2WD,2750,4,4,556,370,472,,4250.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,EXPEDITION 4WD,3.5,6,Auto(S10),10,Part-time 4-Wheel Drive,15,22,18,Standard SUV 4WD,2900,4,4,580,404,501,,5000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,EXPLORER AWD,3.0,6,Auto(S10),10,Part-time 4-Wheel Drive,18,25,20,Standard SUV 4WD,2600,4,4,503,361,439,,3500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,EXPLORER AWD,3.0,6,Auto(A10),10,Part-time 4-Wheel Drive,18,25,21,Standard SUV 4WD,2500,4,4,490,352,428,,3000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,EXPLORER AWD,2.3,4,Auto(A10),10,Part-time 4-Wheel Drive,20,27,23,Standard SUV 4WD,2300,5,5,448,329,394,,2000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,EXPLORER RWD,3.0,6,Auto(S10),10,"2-Wheel Drive, Rear",18,25,21,Standard SUV 2WD,2500,4,4,488,348,425,,3000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,EXPLORER RWD,3.0,6,Auto(A10),10,"2-Wheel Drive, Rear",18,25,21,Standard SUV 2WD,2500,4,4,480,348,420,,3000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,EXPLORER RWD,2.3,4,Auto(A10),10,"2-Wheel Drive, Rear",20,29,24,Standard SUV 2WD,2200,5,5,433,308,377,,1500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP 2WD,3.5,6,Auto(S10),10,"2-Wheel Drive, Rear",17,25,20,Standard Pick-up Trucks 2WD,2600,4,4,530,358,452,,3500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP 2WD,2.7,6,Auto(S10),10,"2-Wheel Drive, Rear",19,25,21,Standard Pick-up Trucks 2WD,2500,4,4,480,358,425,,3000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP 2WD,5.0,8,Auto(S10),10,"2-Wheel Drive, Rear",16,24,19,Standard Pick-up Trucks 2WD,2750,4,4,555,373,473,,4250.0,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP 4WD,3.5,6,Auto(S10),10,Part-time 4-Wheel Drive,16,24,19,Standard Pick-up Trucks 4WD,2750,4,4,548,366,467,,4250.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP 4WD,2.7,6,Auto(S10),10,Part-time 4-Wheel Drive,18,23,20,Standard Pick-up Trucks 4WD,2600,4,4,494,366,437,,3500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP 4WD,5.0,8,Auto(S10),10,Part-time 4-Wheel Drive,16,24,19,Standard Pick-up Trucks 4WD,2750,4,4,554,377,474,,4250.0,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP 4WD HEV,3.5,6,Auto(S10),10,Part-time 4-Wheel Drive,22,24,23,Standard Pick-up Trucks 4WD,2300,5,5,397,373,386,,2000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,3.5,6,Auto(S10),10,Part-time 4-Wheel Drive,16,21,18,Standard Pick-up Trucks 4WD,2900,4,4,540,424,494,,5000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,5.0,8,Auto(S10),10,Part-time 4-Wheel Drive,15,20,17,Standard Pick-up Trucks 4WD,3100,3,3,592,444,523,,6000.0,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,F150 RAPTOR 4WD,3.5,6,Auto(S10),10,Part-time 4-Wheel Drive,14,18,16,Standard Pick-up Trucks 4WD,3300,3,3,626,478,559,,7000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,F150 RAPTOR R 4WD,5.2,8,Auto(S10),10,Part-time 4-Wheel Drive,10,15,12,Standard Pick-up Trucks 4WD,5300,1,1,858,598,741,,17000.0,,Supercharged,No
+2025,Ford Motor Company,Ford,MAVERICK AWD,2.0,4,Auto(A8),8,Part-time 4-Wheel Drive,22,30,25,Small Pick-up Trucks 4WD,2100,5,5,401,296,355,,1000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,MAVERICK HEV AWD,2.5,4,Auto(AV),1,Part-time 4-Wheel Drive,40,34,37,Small Pick-up Trucks 4WD,1400,7,7,222,261,240,2500.0,,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,MAVERICK HEV FWD,2.5,4,Auto(AV),1,"2-Wheel Drive, Front",42,35,38,Small Pick-up Trucks 2WD,1400,7,7,211,254,234,2500.0,,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,MAVERICK LOBO AWD,2.0,4,Auto(S8),8,4-Wheel Drive,21,30,24,Small Pick-up Trucks 4WD,2200,5,5,423,297,370,,1500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,MAVERICK TREMOR AWD,2.0,4,Auto(S8),8,4-Wheel Drive,21,27,23,Small Pick-up Trucks 4WD,2300,5,5,424,330,387,,2000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,MUSTANG,5.0,8,Auto(S10),10,"2-Wheel Drive, Rear",16,24,19,Subcompact Cars,2750,4,4,557,371,467,,4250.0,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,MUSTANG,2.3,4,Auto(A10),10,"2-Wheel Drive, Rear",22,33,26,Subcompact Cars,2000,5,5,404,268,342,,500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,MUSTANG,5.0,8,Manual(M6),6,"2-Wheel Drive, Rear",15,23,18,Subcompact Cars,2900,4,4,585,385,494,,5000.0,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Ford,MUSTANG DARK HORSE,5.0,8,Auto(S10),10,"2-Wheel Drive, Rear",14,22,17,Subcompact Cars,3100,3,3,619,407,524,,6000.0,G,Naturally Aspirated,No
+2025,Ford Motor Company,Ford,MUSTANG DARK HORSE,5.0,8,Manual(M6),6,"2-Wheel Drive, Rear",14,22,17,Subcompact Cars,3100,3,3,638,405,533,,6000.0,G,Naturally Aspirated,No
+2025,Ford Motor Company,Ford,MUSTANG GTD,5.2,8,Auto(AM-S8),8,"2-Wheel Drive, Rear",10,17,12,Subcompact Cars,4400,1,1,889,525,740,,12500.0,G,Supercharged,No
+2025,Ford Motor Company,Ford,RANGER 2WD,2.3,4,Auto(S10),10,"2-Wheel Drive, Rear",21,26,23,Standard Pick-up Trucks 2WD,2300,5,5,431,317,380,,2000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,RANGER 4WD,2.3,4,Auto(S10),10,Part-time 4-Wheel Drive,19,26,22,Standard Pick-up Trucks 4WD,2400,5,5,459,339,405,,2500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,RANGER 4WD,2.7,6,Auto(S10),10,Part-time 4-Wheel Drive,19,23,20,Standard Pick-up Trucks 4WD,2600,4,4,475,378,431,,3500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Ford,RANGER RAPTOR 4WD,3.0,6,Auto(S10),10,Part-time 4-Wheel Drive,16,18,17,Standard Pick-up Trucks 4WD,3100,3,3,561,482,525,,6000.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,G70 AWD,3.3,6,Auto(S8),8,All Wheel Drive,17,23,19,Compact Cars,3350,4,4,528,389,466,,7250.0,,Turbocharged,No
+2025,Hyundai,GENESIS,G70 AWD,2.5,4,Auto(S8),8,All Wheel Drive,20,28,23,Compact Cars,2750,5,5,440,319,385,,4250.0,,Turbocharged,No
+2025,Hyundai,GENESIS,G70 RWD,3.3,6,Auto(S8),8,"2-Wheel Drive, Rear",17,25,20,Compact Cars,3200,4,4,526,355,449,,6500.0,,Turbocharged,No
+2025,Hyundai,GENESIS,G70 RWD,2.5,4,Auto(S8),8,"2-Wheel Drive, Rear",21,29,24,Compact Cars,2650,5,5,429,304,373,,3750.0,,Turbocharged,No
+2025,Hyundai,GENESIS,G80 AWD,2.5,4,Auto(S8),8,All Wheel Drive,20,29,24,Large Cars,2650,5,5,438,303,377,,3750.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,G80 AWD,3.5,6,Auto(S8),8,All Wheel Drive,16,24,19,Large Cars,3350,4,4,562,366,474,,7250.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,G90 AWD,3.5,6,Auto(S8),8,All Wheel Drive,18,26,21,Large Cars,3050,4,4,491,347,426,,5750.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,G90 MHEV,3.5,6,Auto(S8),8,All Wheel Drive,17,24,20,Large Cars,3200,4,4,505,363,441,,6500.0,,Turbocharged+Supercharged,Yes
+2025,Hyundai,GENESIS,GV70 AWD,2.5,4,Auto(S8),8,All Wheel Drive,19,26,22,Small SUV 4WD,2900,5,5,457,347,408,,5000.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,GV70 AWD,2.5,4,Auto(S8),8,All Wheel Drive,22,28,24,Small SUV 4WD,2650,5,5,409,320,369,,3750.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,GV70 AWD,3.5,6,Auto(S8),8,All Wheel Drive,18,24,20,Small SUV 4WD,3200,4,4,492,379,441,,6500.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,GV80 AWD,2.5,4,Auto(S8),8,All Wheel Drive,19,24,21,Standard SUV 4WD,3050,4,4,474,369,427,,5750.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,GV80 AWD,3.5,6,Auto(S8),8,All Wheel Drive,16,22,19,Standard SUV 4WD,3350,4,4,542,404,480,,7250.0,,Turbocharged,Yes
+2025,Hyundai,GENESIS,GV80 MHEV,3.5,6,Auto(S8),8,All Wheel Drive,18,22,20,Standard SUV 4WD,3200,4,4,497,405,455,,6500.0,,Turbocharged+Supercharged,Yes
+2025,General Motors,GMC,ACADIA AWD,2.5,4,Auto(A8),8,All Wheel Drive,19,24,21,Standard SUV 4WD,2500,4,4,462,374,422,,3000.0,,Turbocharged,Yes
+2025,General Motors,GMC,ACADIA FWD,2.5,4,Auto(A8),8,"2-Wheel Drive, Front",20,27,23,Standard SUV 2WD,2300,5,5,431,334,387,,2000.0,,Turbocharged,Yes
+2025,General Motors,GMC,CANYON 2WD,2.7,4,Auto(A8),8,"2-Wheel Drive, Rear",19,23,20,Standard Pick-up Trucks 2WD,2600,4,4,472,388,434,,3500.0,,Turbocharged,Yes
+2025,General Motors,GMC,CANYON 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,21,19,Standard Pick-up Trucks 4WD,2750,4,4,520,446,487,,4250.0,,Turbocharged,Yes
+2025,General Motors,GMC,CANYON AT4X 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,17,17,Standard Pick-up Trucks 4WD,3100,3,3,531,522,527,,6000.0,,Turbocharged,Yes
+2025,General Motors,GMC,CANYON AT4X AEV 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,16,16,16,Standard Pick-up Trucks 4WD,3300,3,3,559,570,564,,7000.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 2WD,3.0,6,Auto(A10),10,"2-Wheel Drive, Rear",23,29,26,Standard Pick-up Trucks 2WD,2350,5,5,434,356,399,,2250.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 2WD,2.7,4,Auto(A8),8,"2-Wheel Drive, Rear",18,21,19,Standard Pick-up Trucks 2WD,2750,4,4,503,426,468,,4250.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 2WD,2.7,4,Auto(A8),8,"2-Wheel Drive, Rear",17,21,19,Standard Pick-up Trucks 2WD,2750,4,4,506,426,470,,4250.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",16,21,18,Standard Pick-up Trucks 2WD,2900,4,4,554,423,495,,5000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",16,20,17,Standard Pick-up Trucks 2WD,3100,3,3,559,442,507,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 2WD CAB CHASSIS,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",15,18,16,Special Purpose Vehicle cab chassis,3300,3,3,589,504,551,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD,3.0,6,Auto(A10),10,4-Wheel Drive,22,26,24,Standard Pick-up Trucks 4WD,2550,5,4,459,391,428,,3250.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,18,17,Standard Pick-up Trucks 4WD,3100,3,3,537,489,516,,6000.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 4WD,2.7,4,Auto(A8),8,4-Wheel Drive,17,19,18,Standard Pick-up Trucks 4WD,2900,4,4,522,463,496,,5000.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard Pick-up Trucks 4WD,3100,3,3,576,462,524,,6000.0,,Naturally Aspirated,No
+2025,General Motors,GMC,SIERRA 4WD,6.2,8,Auto(A10),10,4-Wheel Drive,15,19,16,Standard Pick-up Trucks 4WD,4000,3,3,606,457,539,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,16,Standard Pick-up Trucks 4WD,3300,3,3,604,475,546,,7000.0,,Naturally Aspirated,No
+2025,General Motors,GMC,SIERRA 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard Pick-up Trucks 4WD,3100,3,3,571,470,526,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard Pick-up Trucks 4WD,3100,3,3,580,479,535,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD AT4X,3.0,6,Auto(A10),10,4-Wheel Drive,19,20,19,Standard Pick-up Trucks 4WD,3250,4,3,530,516,524,,6750.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 4WD AT4X,6.2,8,Auto(A10),10,4-Wheel Drive,14,16,15,Standard Pick-up Trucks 4WD,4250,2,2,638,557,601,,11750.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD CAB CHASSIS,5.3,8,Auto(A10),10,4-Wheel Drive,14,16,15,Special Purpose Vehicle cab chassis,3500,2,2,633,542,592,,8000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,3.0,6,Auto(A10),10,4-Wheel Drive,21,24,23,Standard Pick-up Trucks 4WD,2650,5,4,475,420,450,,3750.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,2.7,4,Auto(A8),8,4-Wheel Drive,16,17,16,Standard Pick-up Trucks 4WD,3300,3,3,552,521,538,,7000.0,,Turbocharged,Yes
+2025,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard Pick-up Trucks 4WD,3100,3,3,576,462,524,,6000.0,,Naturally Aspirated,No
+2025,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,6.2,8,Auto(A10),10,4-Wheel Drive,14,17,15,Standard Pick-up Trucks 4WD,4250,2,2,636,523,593,,11750.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,16,Standard Pick-up Trucks 4WD,3300,3,3,604,475,546,,7000.0,,Naturally Aspirated,No
+2025,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,18,16,Standard Pick-up Trucks 4WD,3300,3,3,590,499,549,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,5.3,8,Auto(A10),10,4-Wheel Drive,15,18,16,Standard Pick-up Trucks 4WD,3300,3,3,595,502,553,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,TERRAIN AWD,1.5,4,Auto(A8),8,All Wheel Drive,24,28,25,Small SUV 4WD,2100,5,5,377,318,356,,1000.0,,Turbocharged,Yes
+2025,General Motors,GMC,TERRAIN FWD,1.5,4,Auto(AV),1,"2-Wheel Drive, Front",26,28,27,Small SUV 2WD,1950,5,5,346,314,332,,250.0,,Turbocharged,Yes
+2025,General Motors,GMC,YUKON 2WD,6.2,8,Auto(A10),10,"2-Wheel Drive, Rear",15,20,17,Standard SUV 2WD,3750,3,3,587,444,523,,9250.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",15,20,17,Standard SUV 2WD,3100,3,3,592,453,530,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON 2WD,3.0,6,Auto(A10),10,"2-Wheel Drive, Rear",21,26,23,Standard SUV 2WD,2650,5,4,485,385,442,,3750.0,,Turbocharged,Yes
+2025,General Motors,GMC,YUKON 4WD,6.2,8,Auto(A10),10,4-Wheel Drive,14,18,16,Standard SUV 4WD,4000,3,3,634,495,572,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,15,19,17,Standard SUV 4WD,3100,3,3,594,462,535,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON 4WD,3.0,6,Auto(A10),10,4-Wheel Drive,20,26,22,Standard SUV 4WD,2800,5,4,504,395,455,,4500.0,,Turbocharged,Yes
+2025,General Motors,GMC,YUKON XL 2WD,6.2,8,Auto(A10),10,"2-Wheel Drive, Rear",15,19,16,Standard SUV 2WD,4000,3,3,605,470,544,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON XL 2WD,5.3,8,Auto(A10),10,"2-Wheel Drive, Rear",15,20,17,Standard SUV 2WD,3100,3,3,592,453,530,,6000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON XL 2WD,3.0,6,Auto(A10),10,"2-Wheel Drive, Rear",21,26,23,Standard SUV 2WD,2650,5,4,485,385,442,,3750.0,,Turbocharged,Yes
+2025,General Motors,GMC,YUKON XL 4WD,6.2,8,Auto(A10),10,4-Wheel Drive,14,18,16,Standard SUV 4WD,4000,3,3,634,495,572,,10500.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON XL 4WD,5.3,8,Auto(A10),10,4-Wheel Drive,14,19,16,Standard SUV 4WD,3300,3,3,645,481,571,,7000.0,,Naturally Aspirated,Yes
+2025,General Motors,GMC,YUKON XL 4WD,3.0,6,Auto(A10),10,4-Wheel Drive,20,26,22,Standard SUV 4WD,2800,5,4,504,395,455,,4500.0,,Turbocharged,Yes
+2025,Honda,Honda,ACCORD,1.5,4,Auto(AV),1,"2-Wheel Drive, Front",29,37,32,Large Cars,1650,6,6,306,239,277,1250.0,,,Turbocharged,Yes
+2025,Honda,Honda,ACCORD,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",51,44,48,Large Cars,1100,8,8,172,200,184,4000.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,ACCORD SPORT/TOURING,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",46,41,44,Midsize Cars,1200,7,7,192,216,201,3500.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,CIVIC 4Dr,1.5,4,Manual(M6),6,"2-Wheel Drive, Front",27,37,31,Midsize Cars,2050,6,6,323,239,285,,750.0,,Turbocharged,Yes
+2025,Honda,Honda,CIVIC 4Dr,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",32,41,36,Midsize Cars,1450,7,7,276,215,248,2250.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,CIVIC 4Dr,2.0,4,Auto(AV-S7),7,"2-Wheel Drive, Front",31,39,34,Midsize Cars,1550,7,7,281,226,260,1750.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,CIVIC 4Dr,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",50,47,49,Midsize Cars,1050,8,8,176,188,181,4250.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,CIVIC 5Dr,2.0,4,Auto(AV-S7),7,"2-Wheel Drive, Front",30,38,34,Large Cars,1550,7,7,286,228,260,1750.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,CIVIC 5Dr,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",50,45,48,Large Cars,1100,8,8,177,196,186,4000.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,CIVIC 5Dr,2.0,4,Manual(M6),6,"2-Wheel Drive, Front",22,28,24,Large Cars,2650,5,5,404,314,364,,3750.0,,Turbocharged,No
+2025,Honda,Honda,CR-V AWD,1.5,4,Auto(AV),1,All Wheel Drive,26,31,28,Small SUV 4WD,1900,6,6,336,282,312,0.0,,,Turbocharged,Yes
+2025,Honda,Honda,CR-V AWD,2.0,4,Auto(AV),1,All Wheel Drive,40,34,37,Small SUV 4WD,1400,7,7,218,259,237,2500.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,CR-V FWD,1.5,4,Auto(AV),1,"2-Wheel Drive, Front",28,34,30,Small SUV 2WD,1750,6,6,314,260,290,750.0,,,Turbocharged,Yes
+2025,Honda,Honda,CR-V FWD,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",43,36,40,Small SUV 2WD,1300,7,7,205,246,223,3000.0,,,Naturally Aspirated,Yes
+2025,Honda,Honda,HR-V AWD,2.0,4,Auto(AV),1,All Wheel Drive,25,30,27,Small Station Wagons,1950,5,5,354,292,326,,250.0,,Naturally Aspirated,No
+2025,Honda,Honda,HR-V FWD,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",26,32,28,Small Station Wagons,1900,6,6,338,278,311,0.0,,,Naturally Aspirated,No
+2025,Honda,Honda,ODYSSEY FWD,3.5,6,Auto(S10),10,"2-Wheel Drive, Front",19,28,22,"Special Purpose Vehicle, minivan 2WD",2400,5,5,457,319,395,,2500.0,,Naturally Aspirated,Yes
+2025,Honda,Honda,PASSPORT AWD,3.5,6,Auto(S9),9,All Wheel Drive,19,24,21,Small SUV 4WD,2500,4,4,459,364,416,,3000.0,,Naturally Aspirated,Yes
+2025,Honda,Honda,PILOT AWD,3.5,6,Auto(S10),10,All Wheel Drive,19,25,21,Standard SUV 4WD,2500,4,4,467,351,415,,3000.0,,Naturally Aspirated,Yes
+2025,Honda,Honda,Pilot AWD Touring/Elite/Black,3.5,6,Auto(S10),10,All Wheel Drive,19,25,21,Standard SUV 4WD,2500,4,4,476,356,422,,3000.0,,Naturally Aspirated,Yes
+2025,Honda,Honda,Pilot AWD TRAILSPORT,3.5,6,Auto(S10),10,All Wheel Drive,18,23,20,Standard SUV 4WD,2600,4,4,496,382,444,,3500.0,,Naturally Aspirated,Yes
+2025,Honda,Honda,PILOT FWD,3.5,6,Auto(S10),10,"2-Wheel Drive, Front",19,27,22,Small SUV 2WD,2400,5,5,465,326,402,,2500.0,,Naturally Aspirated,Yes
+2025,Honda,Honda,RIDGELINE AWD,3.5,6,Auto(S9),9,All Wheel Drive,18,24,21,Standard Pick-up Trucks 4WD,2500,4,4,474,375,429,,3000.0,,Naturally Aspirated,Yes
+2025,Honda,Honda,RIDGELINE AWD TrailSport,3.5,6,Auto(S9),9,All Wheel Drive,18,23,20,Standard Pick-up Trucks 4WD,2600,4,4,496,386,446,,3500.0,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,2.0,4,Auto(AV-S1),1,"2-Wheel Drive, Front",30,39,34,Midsize Cars,1550,7,7,292,228,263,1750.0,,,Naturally Aspirated,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,2.0,4,Auto(AV-S1),1,"2-Wheel Drive, Front",32,41,36,Midsize Cars,1450,7,7,272,214,246,2250.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,1.6,4,Auto(AM-S7),7,"2-Wheel Drive, Front",28,35,31,Midsize Cars,1700,6,6,313,257,288,1000.0,,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",49,52,50,Midsize Cars,1050,8,8,180,172,177,4250.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid Blue,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",51,58,54,Midsize Cars,950,8,8,174,154,165,4750.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Elantra N,2.0,4,Auto(AM-S8),8,"2-Wheel Drive, Front",20,27,23,Midsize Cars,2750,5,5,446,326,392,,4250.0,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Elantra N,2.0,4,Manual(M6),6,"2-Wheel Drive, Front",21,29,24,Midsize Cars,2650,5,5,414,307,366,,3750.0,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,1.6,4,Auto(S8),8,All Wheel Drive,24,29,26,Small SUV 4WD,2000,5,5,365,309,339,,500.0,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,2.0,4,Auto(AV-S1),1,All Wheel Drive,26,29,27,Small SUV 4WD,1950,5,5,341,300,323,,250.0,,Naturally Aspirated,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,2.0,4,Auto(AV-S1),1,All Wheel Drive,27,29,28,Small SUV 4WD,1900,6,6,332,302,319,0.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,1.6,4,Auto(S8),8,"2-Wheel Drive, Front",26,32,28,Small SUV 2WD,1900,6,6,345,279,315,0.0,,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,2.0,4,Auto(AV-S1),1,"2-Wheel Drive, Front",28,35,31,Small SUV 2WD,1700,6,6,316,255,288,1000.0,,,Naturally Aspirated,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,2.0,4,Auto(AV-S1),1,"2-Wheel Drive, Front",29,34,31,Small SUV 2WD,1700,6,6,305,258,284,1000.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Palisade AWD,3.8,6,Auto(S8),8,All Wheel Drive,19,24,21,Small SUV 4WD,2500,4,4,462,367,420,,3000.0,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Palisade FWD,3.8,6,Auto(S8),8,"2-Wheel Drive, Front",19,26,22,Small SUV 2WD,2400,5,5,458,336,403,,2500.0,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz AWD,2.5,4,Auto(S8),8,All Wheel Drive,21,29,24,Small SUV 4WD,2200,5,5,415,309,367,,1500.0,,Naturally Aspirated,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz AWD,2.5,4,Auto(AM-S8),8,All Wheel Drive,19,27,22,Small SUV 4WD,2400,5,5,470,327,406,,2500.0,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz FWD,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",22,30,25,Small SUV 2WD,2100,5,5,405,296,356,,1000.0,,Naturally Aspirated,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz XRT AWD,2.5,4,Auto(AM-S8),8,All Wheel Drive,18,26,21,Small SUV 4WD,2500,4,4,485,338,419,,3000.0,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD,2.5,4,Auto(AM-S8),8,All Wheel Drive,20,28,23,Small SUV 4WD,2300,5,5,449,319,390,,2000.0,,Turbocharged,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD XRT,2.5,4,Auto(AM-S8),8,All Wheel Drive,19,26,22,Small SUV 4WD,2400,5,5,461,346,409,,2500.0,,Turbocharged,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe FWD,2.5,4,Auto(AM-S8),8,"2-Wheel Drive, Front",20,29,24,Small SUV 2WD,2200,5,5,435,303,376,,1500.0,,Turbocharged,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid AWD,1.6,4,Auto(AM-S6),6,All Wheel Drive,35,34,34,Small SUV 4WD,1550,7,7,255,262,258,1750.0,,,Turbocharged,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid FWD,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",36,35,36,Small SUV 2WD,1450,7,7,246,252,249,2250.0,,,Turbocharged,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Sonata AWD,2.5,4,Auto(S8),8,All Wheel Drive,25,34,28,Large Cars,1900,6,6,361,260,316,0.0,,,Naturally Aspirated,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Sonata FWD,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",25,36,29,Large Cars,1800,6,6,354,245,305,500.0,,,Naturally Aspirated,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Sonata FWD,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",28,38,32,Large Cars,1650,6,6,322,232,281,1250.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Sonata FWD,2.5,4,Auto(AM-S8),8,"2-Wheel Drive, Front",23,32,27,Large Cars,1950,5,5,378,277,333,,250.0,,Turbocharged,No
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Sonata Hybrid,2.0,4,Auto(AM-S6),6,"2-Wheel Drive, Front",44,51,47,Large Cars,1100,8,8,199,174,188,4000.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,2.5,4,Auto(S8),8,All Wheel Drive,24,30,26,Small SUV 4WD,2000,5,5,372,299,339,,500.0,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",25,33,28,Small SUV 2WD,1900,6,6,362,273,322,0.0,,,Naturally Aspirated,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Tucson Hybrid,1.6,4,Auto(AM-S6),6,All Wheel Drive,35,35,35,Small SUV 4WD,1500,7,7,252,254,253,2000.0,,,Turbocharged,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Tucson Hybrid Blue,1.6,4,Auto(AM-S6),6,All Wheel Drive,38,38,38,Small SUV 4WD,1400,7,7,232,235,234,2500.0,,,Turbocharged,Yes
+2025,Hyundai,HYUNDAI MOTOR COMPANY,Venue,1.6,4,Auto(AV-S1),1,"2-Wheel Drive, Front",29,32,31,Small SUV 2WD,1700,6,6,304,275,291,1000.0,,,Naturally Aspirated,No
+2025,Ineos Automotive Li,INEOS Automotive Limited,Grenadier Station Wagon,3.0,6,Auto(S8),8,4-Wheel Drive,15,15,15,Standard SUV 4WD,4250,2,2,605,575,592,,11750.0,,Turbocharged,Yes
+2025,Ineos Automotive Li,INEOS Automotive Limited,Grenadier Trialmaster Edition,3.0,6,Auto(S8),8,4-Wheel Drive,14,14,14,Standard SUV 4WD,4550,2,2,635,630,633,,13250.0,,Turbocharged,Yes
+2025,Nissan,INFINITI,QX50,2.0,4,Auto(AV-S8),8,"2-Wheel Drive, Front",23,29,26,Small SUV 2WD,2450,5,5,388,308,343,,2750.0,,Turbocharged,No
+2025,Nissan,INFINITI,QX50 AWD,2.0,4,Auto(AV-S8),8,All Wheel Drive,22,28,25,Small SUV 4WD,2550,5,5,406,319,357,,3250.0,,Turbocharged,No
+2025,Nissan,INFINITI,QX60 AWD,2.0,4,Auto(S9),9,All Wheel Drive,22,27,24,Standard SUV 4WD,2650,5,5,413,333,377,,3750.0,,Turbocharged,Yes
+2025,Nissan,INFINITI,QX60 FWD,2.0,4,Auto(S9),9,"2-Wheel Drive, Front",22,28,24,Standard SUV 2WD,2650,5,5,404,318,371,,3750.0,,Turbocharged,Yes
+2025,Nissan,INFINITI,QX80 2WD,3.5,6,Auto(S9),9,"2-Wheel Drive, Rear",16,20,18,Standard SUV 2WD,3550,4,4,557,440,504,,8250.0,,Turbocharged,Yes
+2025,Nissan,INFINITI,QX80 4WD,3.5,6,Auto(S9),9,4-Wheel Drive,16,19,17,Standard SUV 4WD,3750,3,3,572,460,522,,9250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Jaguar,F-PACE,2.0,4,Auto(S8),8,All Wheel Drive,22,27,24,Small SUV 4WD,2650,5,5,409,335,376,,3750.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Jaguar,F-PACE MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,19,25,21,Small SUV 4WD,3050,4,4,473,354,420,,5750.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Jaguar,F-PACE SVR,5.0,8,Auto(S8),8,All Wheel Drive,15,21,17,Small SUV 4WD,3750,3,3,592,430,519,,9250.0,,Supercharged,Yes
+2025,FCA US LLC,Jeep,Compass 4X4,2.0,4,Auto(A8),8,All Wheel Drive,24,32,27,Small SUV 4WD,1950,5,5,373,278,330,,250.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Gladiator 4X4,3.6,6,Auto(A8),8,4-Wheel Drive,17,22,19,Standard Pick-up Trucks 4WD,2750,4,4,517,405,466,,4250.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Grand Cherokee 4X2,3.6,6,Auto(A8),8,"2-Wheel Drive, Rear",19,26,22,Standard SUV 2WD,2400,5,5,461,340,407,,2500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Grand Cherokee 4X4,3.6,6,Auto(A8),8,4-Wheel Drive,19,26,22,Standard SUV 4WD,2400,5,5,466,348,413,,2500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Grand Cherokee L 4X2,3.6,6,Auto(A8),8,"2-Wheel Drive, Rear",19,26,21,Standard SUV 2WD,2500,4,4,471,348,416,,3000.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Grand Cherokee L 4X4,3.6,6,Auto(A8),8,4-Wheel Drive,18,25,21,Standard SUV 4WD,2500,4,4,493,353,430,,3000.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Grand Wagoneer 4x4,3.0,6,Auto(A8),8,All Wheel Drive,14,20,17,Standard SUV 4WD,3750,3,3,613,444,537,,9250.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Grand Wagoneer L 4x4,3.0,6,Auto(A8),8,All Wheel Drive,14,20,17,Standard SUV 4WD,3750,3,3,613,444,537,,9250.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Wagoneer 4x2,3.0,6,Auto(A8),8,"2-Wheel Drive, Rear",17,24,20,Standard SUV 2WD,2600,4,4,520,370,453,,3500.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Wagoneer 4x4,3.0,6,Auto(A8),8,All Wheel Drive,16,23,19,Standard SUV 4WD,2750,4,4,547,380,472,,4250.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Wagoneer L 4x2,3.0,6,Auto(A8),8,"2-Wheel Drive, Rear",17,24,20,Standard SUV 2WD,2600,4,4,520,370,453,,3500.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Wagoneer L 4x4,3.0,6,Auto(A8),8,All Wheel Drive,16,23,19,Standard SUV 4WD,2750,4,4,542,395,476,,4250.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Wrangler 2dr 4X4,2.0,4,Auto(A8),8,4-Wheel Drive,20,23,21,Small SUV 4WD,2500,4,4,439,387,416,,3000.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Wrangler 2dr 4X4,3.6,6,Manual(M6),6,4-Wheel Drive,17,23,19,Small SUV 4WD,2750,4,4,525,386,462,,4250.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Wrangler 4dr 4X4,2.0,4,Auto(A8),8,4-Wheel Drive,20,22,21,Small SUV 4WD,2500,4,4,452,394,426,,3000.0,,Turbocharged,Yes
+2025,FCA US LLC,Jeep,Wrangler 4dr 4X4,3.6,6,Auto(A8),8,4-Wheel Drive,18,23,20,Small SUV 4WD,2600,4,4,507,382,451,,3500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Wrangler 4dr 4X4,3.6,6,Manual(M6),6,4-Wheel Drive,16,22,19,Small SUV 4WD,2750,4,4,542,396,476,,4250.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,Jeep,Wrangler 4dr 4X4,6.4,8,Auto(A8),8,4-Wheel Drive,13,16,14,Small SUV 4WD,4550,2,2,706,549,635,,13250.0,,Naturally Aspirated,No
+2025,Kia,KIA,Carnival,3.5,6,Auto(S8),8,"2-Wheel Drive, Front",18,26,21,"Special Purpose Vehicle, minivan 2WD",2500,4,4,496,341,426,,3000.0,,Naturally Aspirated,No
+2025,Kia,KIA,Carnival Hybrid,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",34,31,33,"Special Purpose Vehicle, minivan 2WD",1600,6,6,263,287,274,1500.0,,,Turbocharged,Yes
+2025,Kia,KIA,K4,2.0,4,Auto(AV-S1),1,"2-Wheel Drive, Front",29,39,33,Midsize Cars,1600,6,6,311,227,273,1500.0,,,Naturally Aspirated,No
+2025,Kia,KIA,K4,2.0,4,Auto(AV-S1),1,"2-Wheel Drive, Front",30,40,34,Midsize Cars,1550,7,7,300,220,264,1750.0,,,Naturally Aspirated,No
+2025,Kia,KIA,K4,1.6,4,Auto(S8),8,"2-Wheel Drive, Front",26,36,29,Midsize Cars,1800,6,6,347,248,303,500.0,,,Turbocharged,No
+2025,Kia,KIA,K5,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",25,36,29,Large Cars,1800,6,6,361,247,310,500.0,,,Naturally Aspirated,No
+2025,Kia,KIA,K5,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",26,37,30,Large Cars,1750,6,6,347,238,298,750.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,K5,2.5,4,Auto(AM-S8),8,"2-Wheel Drive, Front",23,33,27,Large Cars,1950,5,5,380,273,331,,250.0,,Turbocharged,No
+2025,Kia,KIA,K5 AWD,2.5,4,Auto(S8),8,All Wheel Drive,24,33,27,Large Cars,1950,5,5,377,270,329,,250.0,,Naturally Aspirated,No
+2025,Kia,KIA,Niro,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",53,45,49,Small SUV 2WD,1050,8,8,168,196,181,4250.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,Niro FE,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",53,54,53,Small SUV 2WD,1000,8,8,168,165,167,4500.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,Seltos AWD,1.6,4,Auto(S8),8,All Wheel Drive,24,27,25,Small SUV 4WD,2100,5,5,368,327,350,,1000.0,,Turbocharged,No
+2025,Kia,KIA,Seltos AWD,2.0,4,Auto(AV-S8),8,All Wheel Drive,27,31,29,Small SUV 4WD,1800,6,6,331,282,309,500.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,Seltos FWD,2.0,4,Auto(AV-S8),8,"2-Wheel Drive, Front",28,34,31,Small SUV 2WD,1700,6,6,312,259,288,1000.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,Sorento AWD,2.5,4,Auto(S8),8,All Wheel Drive,23,28,25,Small SUV 4WD,2100,5,5,387,321,357,,1000.0,,Naturally Aspirated,Yes
+2025,Kia,KIA,Sorento AWD,2.5,4,Auto(AM-S8),8,All Wheel Drive,20,27,23,Small SUV 4WD,2300,5,5,438,329,389,,2000.0,,Turbocharged,Yes
+2025,Kia,KIA,Sorento FWD,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",23,31,26,Small SUV 2WD,2000,5,5,380,289,339,,500.0,,Naturally Aspirated,Yes
+2025,Kia,KIA,Sorento FWD,2.5,4,Auto(AM-S8),8,"2-Wheel Drive, Front",20,29,23,Small SUV 2WD,2300,5,5,441,311,382,,2000.0,,Turbocharged,Yes
+2025,Kia,KIA,Sorento Hybrid AWD,1.6,4,Auto(AM-S6),6,All Wheel Drive,34,34,34,Small SUV 4WD,1550,7,7,262,263,263,1750.0,,,Turbocharged,Yes
+2025,Kia,KIA,Sorento Hybrid FWD,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",36,36,36,Small SUV 2WD,1450,7,7,246,246,246,2250.0,,,Turbocharged,Yes
+2025,Kia,KIA,Soul,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",27,33,30,Small Station Wagons,1750,6,6,328,270,302,750.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,Soul Eco dynamics,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",29,35,31,Small Station Wagons,1700,6,6,312,256,287,1000.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,Sportage AWD,2.5,4,Auto(S8),8,All Wheel Drive,23,27,25,Small SUV 4WD,2100,5,5,381,336,361,,1000.0,,Naturally Aspirated,Yes
+2025,Kia,KIA,Sportage FWD,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",25,32,28,Small SUV 2WD,1900,6,6,352,274,317,0.0,,,Naturally Aspirated,Yes
+2025,Kia,KIA,Sportage Hybrid AWD,1.6,4,Auto(AM-S6),6,All Wheel Drive,38,38,38,Small SUV 4WD,1400,7,7,235,235,235,2500.0,,,Turbocharged,Yes
+2025,Kia,KIA,Sportage Hybrid FWD,1.6,4,Auto(AM-S6),6,"2-Wheel Drive, Front",42,44,43,Small SUV 4WD,1200,7,7,210,200,206,3500.0,,,Turbocharged,Yes
+2025,Kia,KIA,Sportage X-pro,2.5,4,Auto(S8),8,All Wheel Drive,23,30,26,Small SUV 4WD,2000,5,5,384,294,344,,500.0,,Naturally Aspirated,Yes
+2025,Kia,KIA,Telluride AWD,3.8,6,Auto(S8),8,All Wheel Drive,18,23,20,Small SUV 4WD,2600,4,4,494,379,442,,3500.0,,Naturally Aspirated,Yes
+2025,Kia,KIA,Telluride FWD,3.8,6,Auto(S8),8,"2-Wheel Drive, Front",20,26,22,Small SUV 2WD,2400,5,5,447,339,398,,2500.0,,Naturally Aspirated,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 110,2.0,4,Auto(S8),8,4-Wheel Drive,18,20,19,Standard SUV 4WD,3350,4,4,496,447,474,,7250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 110,5.0,8,Auto(S8),8,4-Wheel Drive,14,18,16,Standard SUV 4WD,4000,3,3,644,489,574,,10500.0,,Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 110 MHEV,4.4,8,Auto(S8),8,4-Wheel Drive,15,19,17,Standard SUV 4WD,3750,3,3,597,458,534,,9250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 130,5.0,8,Auto(S8),8,4-Wheel Drive,14,19,16,Standard SUV 4WD,4000,3,3,644,474,567,,10500.0,,Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 130 Outbound,3.0,6,Auto(S8),8,4-Wheel Drive,16,19,18,Standard SUV 4WD,3550,4,4,547,462,509,,8250.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 130 P300 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,17,20,18,Standard SUV 4WD,3550,4,4,531,443,491,,8250.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 130 P400 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,18,20,19,Standard SUV 4WD,3350,4,4,506,434,474,,7250.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 90,2.0,4,Auto(S8),8,4-Wheel Drive,18,21,19,Standard SUV 4WD,3350,4,4,493,431,465,,7250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 90,5.0,8,Auto(S8),8,4-Wheel Drive,15,19,16,Standard SUV 4WD,4000,3,3,615,471,550,,10500.0,,Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Defender 90 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,18,21,19,Standard SUV 4WD,3350,4,4,497,433,468,,7250.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Discovery,2.0,4,Auto(S8),8,4-Wheel Drive,19,24,21,Standard SUV 4WD,3050,4,4,462,372,421,,5750.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Discovery Sport,2.0,4,Auto(S9),9,All Wheel Drive,19,23,20,Small SUV 4WD,3200,4,4,482,381,437,,6500.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Evoque,2.0,4,Auto(S9),9,All Wheel Drive,20,27,22,Small SUV 4WD,2900,5,5,451,334,398,,5000.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover LWB MHEV,4.4,8,Auto(S8),8,4-Wheel Drive,16,22,18,Standard SUV 4WD,3550,4,4,574,411,501,,8250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover MHEV,4.4,8,Auto(S8),8,4-Wheel Drive,16,23,19,Standard SUV 4WD,3350,4,4,549,388,477,,7250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover P400 LWB MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,19,24,21,Standard SUV 4WD,3050,4,4,471,375,428,,5750.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover P400 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,19,24,21,Standard SUV 4WD,3050,4,4,471,375,428,,5750.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Sport MHEV,4.4,8,Auto(S8),8,4-Wheel Drive,16,23,19,Standard SUV 4WD,3350,4,4,549,388,477,,7250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Sport P360 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,20,25,22,Standard SUV 4WD,2900,5,5,446,342,399,,5000.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Sport P400 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,20,25,22,Standard SUV 4WD,2900,5,5,446,342,399,,5000.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Sport SVR MHEV,4.4,8,Auto(S8),8,4-Wheel Drive,16,22,18,Standard SUV 4WD,3550,4,4,568,410,497,,8250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover SV LWB MHEV,4.4,8,Auto(S8),8,4-Wheel Drive,16,22,18,Standard SUV 4WD,3550,4,4,574,411,501,,8250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover SV MHEV,4.4,8,Auto(S8),8,4-Wheel Drive,16,22,18,Standard SUV 4WD,3550,4,4,574,411,501,,8250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Velar,2.0,4,Auto(S8),8,All Wheel Drive,22,26,23,Small SUV 4WD,2750,5,5,415,339,381,,4250.0,,Turbocharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Velar P340 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,19,26,22,Small SUV 4WD,2900,5,5,460,343,407,,5000.0,,Turbocharged+Supercharged,Yes
+2025,Jaguar Land Rover L,Land Rover,Range Rover Velar P400 MHEV,3.0,6,Auto(S8),8,4-Wheel Drive,19,25,21,Small SUV 4WD,3050,4,4,473,354,420,,5750.0,,Turbocharged+Supercharged,Yes
+2025,Toyota,LEXUS,ES 250 AWD,2.5,4,Auto(S8),8,All Wheel Drive,24,33,28,Midsize Cars,1900,6,6,365,265,320,0.0,,,Naturally Aspirated,No
+2025,Toyota,LEXUS,ES 300h,2.5,4,Auto(AV-S6),6,"2-Wheel Drive, Front",43,44,44,Midsize Cars,1200,7,7,204,200,200,3500.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,ES 350,3.5,6,Auto(S8),8,"2-Wheel Drive, Front",22,32,25,Midsize Cars,2100,5,5,405,276,347,,1000.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,ES 350 F SPORT,3.5,6,Auto(S8),8,"2-Wheel Drive, Front",22,31,25,Midsize Cars,2100,5,5,409,283,352,,1000.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,GX 550,3.4,6,Auto(S10),10,4-Wheel Drive,15,21,17,Standard SUV 4WD,3750,3,3,576,420,505,,9250.0,,Turbocharged,No
+2025,Toyota,LEXUS,IS 300,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",21,31,25,Compact Cars,2550,5,5,414,284,356,,3250.0,,Turbocharged,No
+2025,Toyota,LEXUS,IS 300 AWD,3.5,6,Auto(S6),6,All Wheel Drive,19,26,22,Compact Cars,2900,5,5,461,340,407,,5000.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,IS 350,3.5,6,Auto(S8),8,"2-Wheel Drive, Rear",20,28,23,Compact Cars,2750,5,5,441,317,385,,4250.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,IS 350 AWD,3.5,6,Auto(S6),6,All Wheel Drive,19,26,22,Compact Cars,2900,5,5,461,340,407,,5000.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,IS 500,5.0,8,Auto(S8),8,"2-Wheel Drive, Rear",17,25,20,Compact Cars,3200,4,4,534,350,451,,6500.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,LC 500,5.0,8,Auto(S10),10,"2-Wheel Drive, Rear",16,24,18,Subcompact Cars,3550,4,4,573,368,481,,8250.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,LC 500 CONVERTIBLE,5.0,8,Auto(S10),10,"2-Wheel Drive, Rear",15,25,18,Minicompact Cars,3550,4,4,598,356,489,,8250.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,LC 500h,3.5,6,Auto(AV-S10),10,"2-Wheel Drive, Rear",26,33,29,Subcompact Cars,2200,6,6,336,264,304,,1500.0,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,LS 500,3.4,6,Auto(S10),10,"2-Wheel Drive, Rear",18,29,22,Midsize Cars,2900,5,5,483,309,404,,5000.0,,Turbocharged,No
+2025,Toyota,LEXUS,LS 500 AWD,3.4,6,Auto(S10),10,All Wheel Drive,17,27,21,Midsize Cars,3050,4,4,499,318,418,,5750.0,,Turbocharged,No
+2025,Toyota,LEXUS,LS 500h AWD,3.5,6,Auto(AV-S10),10,All Wheel Drive,22,29,25,Midsize Cars,2550,5,5,391,307,353,,3250.0,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,LS 500h AWD,3.5,6,Auto(AV-S10),10,All Wheel Drive,22,29,25,Midsize Cars,2550,5,5,400,307,358,,3250.0,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,LX 600,3.4,6,Auto(S10),10,All Wheel Drive,17,22,19,Standard SUV 4WD,3350,4,4,533,408,477,,7250.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,LX 700h,3.4,6,Auto(S10),10,All Wheel Drive,19,22,20,Standard SUV 4WD,3200,4,4,469,401,439,,6500.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,NX 250,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",26,33,28,Small SUV 2WD,1900,6,6,345,269,311,0.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,NX 250 AWD,2.5,4,Auto(S8),8,All Wheel Drive,25,32,28,Small SUV 4WD,1900,6,6,352,276,318,0.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,NX 350 AWD,2.4,4,Auto(S8),8,All Wheel Drive,21,28,24,Small SUV 4WD,2650,5,5,414,317,370,,3750.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,NX 350 AWD F SPORT,2.4,4,Auto(S8),8,All Wheel Drive,21,28,24,Small SUV 4WD,2650,5,5,420,309,370,,3750.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,NX 350h AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,41,37,39,Small SUV 4WD,1650,7,7,212,235,225,1250.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,RC 300,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",21,31,25,Subcompact Cars,2550,5,5,414,284,356,,3250.0,,Turbocharged,No
+2025,Toyota,LEXUS,RC 300 AWD,3.5,6,Auto(S6),6,All Wheel Drive,19,26,22,Subcompact Cars,2900,5,5,461,340,407,,5000.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,RC 350,3.5,6,Auto(S8),8,"2-Wheel Drive, Rear",20,28,23,Subcompact Cars,2750,5,5,441,317,385,,4250.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,RC 350 AWD,3.5,6,Auto(S6),6,All Wheel Drive,19,26,22,Subcompact Cars,2900,5,5,461,340,407,,5000.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,RC F,5.0,8,Auto(S8),8,"2-Wheel Drive, Rear",16,24,19,Subcompact Cars,3350,4,4,538,361,459,,7250.0,,Naturally Aspirated,No
+2025,Toyota,LEXUS,RX 350,2.4,4,Auto(S8),8,"2-Wheel Drive, Front",22,29,25,Small SUV 2WD,2550,5,5,396,303,354,,3250.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,RX 350 AWD,2.4,4,Auto(S8),8,All Wheel Drive,21,28,24,Small SUV 4WD,2650,5,5,417,312,370,,3750.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,RX 350h AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,37,34,36,Small SUV 4WD,1750,7,7,234,256,244,750.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,RX 500h AWD,2.4,4,Auto(S6),6,All Wheel Drive,27,28,27,Small SUV 4WD,2350,5,5,326,314,321,,2250.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,TX 350,2.4,4,Auto(S8),8,"2-Wheel Drive, Front",21,27,23,Standard SUV 2WD,2750,5,5,423,321,377,,4250.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,TX 350 AWD,2.4,4,Auto(S8),8,All Wheel Drive,20,26,23,Standard SUV 4WD,2750,5,5,432,333,387,,4250.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,TX 500h AWD,2.4,4,Auto(S6),6,All Wheel Drive,27,28,27,Standard SUV 4WD,2350,5,5,326,316,322,,2250.0,,Turbocharged,Yes
+2025,Toyota,LEXUS,UX 300h,2.0,4,Auto(AV-S6),6,"2-Wheel Drive, Front",45,41,43,Compact Cars,1200,7,7,195,214,204,3500.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,UX 300h,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",45,41,43,Compact Cars,1200,7,7,195,214,204,3500.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,UX 300h AWD,2.0,4,Auto(AV-S6),6,All Wheel Drive,44,40,42,Compact Cars,1250,7,7,199,220,209,3250.0,,,Naturally Aspirated,Yes
+2025,Toyota,LEXUS,UX 300h AWD,2.0,4,Auto(AV),1,All Wheel Drive,44,40,42,Compact Cars,1250,7,7,199,220,209,3250.0,,,Naturally Aspirated,Yes
+2025,Ford Motor Company,Lincoln,AVIATOR AWD,3.0,6,Auto(S10),10,Part-time 4-Wheel Drive,17,25,20,Standard SUV 4WD,2600,4,4,521,358,447,,3500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Lincoln,AVIATOR RWD,3.0,6,Auto(S10),10,"2-Wheel Drive, Rear",18,25,21,Standard SUV 2WD,2500,4,4,488,348,425,,3000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Lincoln,CORSAIR AWD,2.0,4,Auto(S8),8,All Wheel Drive,21,28,24,Small SUV 4WD,2200,5,5,424,313,374,,1500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Lincoln,CORSAIR FWD,2.0,4,Auto(S8),8,"2-Wheel Drive, Front",22,30,25,Small SUV 2WD,2100,5,5,406,298,357,,1000.0,,Turbocharged,Yes
+2025,Ford Motor Company,Lincoln,NAUTILUS AWD,2.0,4,Auto(A8),8,All Wheel Drive,21,29,24,Small SUV 4WD,2200,5,5,423,296,366,,1500.0,,Turbocharged,Yes
+2025,Ford Motor Company,Lincoln,NAUTILUS HEV AWD,2.0,4,Auto(AV),1,Part-time 4-Wheel Drive,30,31,30,Small SUV 4WD,1750,6,6,295,283,290,750.0,,,Turbocharged,Yes
+2025,Ford Motor Company,Lincoln,NAVIGATOR 4WD,3.5,6,Auto(S10),10,Part-time 4-Wheel Drive,15,22,17,Standard SUV 4WD,3100,3,3,592,410,510,,6000.0,,Turbocharged,Yes
+2025,Lotus,Lotus Cars Ltd,Emira,3.5,6,Manual(M6),6,"2-Wheel Drive, Rear",16,24,19,Two Seaters,2500,4,4,539,363,460,,4250.0,,Supercharged,No
+2025,Lotus,Lotus Cars Ltd,Emira,3.5,6,Auto(S6),6,"2-Wheel Drive, Rear",18,26,21,Two Seaters,2500,4,4,477,335,413,,3000.0,,Supercharged,No
+2025,Maserati,MASERATI,Grancabrio,3.0,6,Auto(A8),8,All Wheel Drive,17,26,20,Subcompact Cars,3200,4,4,512,330,430,,6500.0,,Turbocharged,Yes
+2025,Maserati,MASERATI,Grancabrio Trofeo,3.0,6,Auto(A8),8,All Wheel Drive,17,26,20,Subcompact Cars,3200,4,4,512,330,430,,6500.0,,Turbocharged,Yes
+2025,Maserati,MASERATI,Granturismo,3.0,6,Auto(A8),8,All Wheel Drive,18,27,21,Subcompact Cars,3050,4,4,489,318,412,,5750.0,,Turbocharged,Yes
+2025,Maserati,MASERATI,Granturismo Trofeo,3.0,6,Auto(A8),8,All Wheel Drive,18,27,21,Subcompact Cars,3050,4,4,489,318,412,,5750.0,,Turbocharged,Yes
+2025,Maserati,MASERATI,Grecale,2.0,4,Auto(A8),8,All Wheel Drive,22,28,24,Small SUV 4WD,2650,5,5,406,314,365,,3750.0,,Turbocharged,Yes
+2025,Maserati,MASERATI,Grecale Modena,2.0,4,Auto(A8),8,All Wheel Drive,22,28,24,Small SUV 4WD,2650,5,5,406,314,365,,3750.0,,Turbocharged,Yes
+2025,Maserati,MASERATI,Grecale Trofeo,3.0,6,Auto(A8),8,All Wheel Drive,18,25,20,Small SUV 4WD,3200,4,4,495,354,432,,6500.0,,Turbocharged,Yes
+2025,Maserati,MASERATI,GT2 Stradale,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",15,25,18,Two Seaters,3550,4,4,576,351,474,,8250.0,,Turbocharged,No
+2025,Maserati,MASERATI,MC20,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",15,25,18,Two Seaters,3550,4,4,576,351,474,,8250.0,,Turbocharged,No
+2025,Maserati,MASERATI,MC20 Spyder,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",15,25,18,Two Seaters,3550,4,4,583,358,482,,8250.0,,Turbocharged,No
+2025,MAZDA,MAZDA,CX-30 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,26,33,29,Small SUV 4WD,1800,6,6,341,269,309,500.0,,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,CX-30 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,22,30,25,Small SUV 4WD,2100,5,5,398,299,353,,1000.0,,Turbocharged,No
+2025,MAZDA,MAZDA,CX-5 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,23,29,25,Small SUV 4WD,2100,5,5,382,308,348,,1000.0,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,CX-5 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,26,30,28,Small SUV 4WD,1900,6,6,345,292,321,0.0,,,Naturally Aspirated,Yes
+2025,MAZDA,MAZDA,CX-5 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,22,27,24,Small SUV 4WD,2200,5,5,406,326,370,,1500.0,,Turbocharged,No
+2025,MAZDA,MAZDA,MAZDA CX-50 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,25,31,28,Small SUV 4WD,1900,6,6,351,286,322,0.0,,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,MAZDA CX-50 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,23,29,25,Small SUV 4WD,2100,5,5,393,308,355,,1000.0,,Turbocharged,Yes
+2025,MAZDA,MAZDA,MAZDA CX-50 4WD,2.5,4,Auto(AV),1,4-Wheel Drive,39,37,38,Small SUV 4WD,1400,7,7,226,241,233,2500.0,,,Naturally Aspirated,Yes
+2025,MAZDA,MAZDA,MAZDA CX-50 4WD,2.5,4,Auto(AV),1,4-Wheel Drive,39,37,38,Small SUV 4WD,1400,7,7,226,241,233,2500.0,,,Naturally Aspirated,Yes
+2025,MAZDA,MAZDA,MAZDA CX-70 4WD,3.3,6,Auto(S8),8,4-Wheel Drive,24,28,25,Standard SUV 4WD,2100,5,5,372,321,349,,1000.0,,Turbocharged,No
+2025,MAZDA,MAZDA,MAZDA CX-70 4WD,3.3,6,Auto(S8),8,4-Wheel Drive,23,28,25,Standard SUV 4WD,2550,5,5,389,320,358,,3250.0,,Turbocharged,No
+2025,MAZDA,MAZDA,MAZDA CX-90 4WD,3.3,6,Auto(S8),8,4-Wheel Drive,24,28,25,Standard SUV 4WD,2100,5,5,373,314,354,,1000.0,,Turbocharged,Yes
+2025,MAZDA,MAZDA,MAZDA CX-90 4WD,3.3,6,Auto(S8),8,4-Wheel Drive,23,28,25,Standard SUV 4WD,2550,5,5,389,320,358,,3250.0,,Turbocharged,Yes
+2025,MAZDA,MAZDA,MAZDA3 4-Door 2WD,2.5,4,Auto(S6),6,"2-Wheel Drive, Front",27,37,31,Compact Cars,1700,6,6,324,243,287,1000.0,,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,MAZDA3 4-Door 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,26,35,30,Compact Cars,1750,6,6,338,255,301,750.0,,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,MAZDA3 4-Door 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,23,32,27,Compact Cars,1950,5,5,382,274,334,,250.0,,Turbocharged,No
+2025,MAZDA,MAZDA,MAZDA3 5-Door 2WD,2.5,4,Manual(M6),6,"2-Wheel Drive, Front",26,36,30,Midsize Cars,1750,6,6,339,244,296,750.0,,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,MAZDA3 5-Door 2WD,2.5,4,Auto(S6),6,"2-Wheel Drive, Front",27,35,30,Midsize Cars,1750,6,6,327,253,294,750.0,,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,MAZDA3 5-Door 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,26,33,29,Midsize Cars,1800,6,6,343,272,311,500.0,,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,MAZDA3 5-Door 4WD,2.5,4,Auto(S6),6,4-Wheel Drive,23,31,26,Midsize Cars,2000,5,5,380,285,337,,500.0,,Turbocharged,No
+2025,MAZDA,MAZDA,MX-5,2.0,4,Manual(M6),6,"2-Wheel Drive, Rear",26,34,29,Two Seaters,2200,6,6,338,264,305,,1500.0,,Naturally Aspirated,No
+2025,MAZDA,MAZDA,MX-5,2.0,4,Auto(S6),6,"2-Wheel Drive, Rear",26,35,29,Two Seaters,2200,6,6,339,254,301,,1500.0,,Naturally Aspirated,No
+2025,Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC,2.0,4,Auto(A9),9,All Wheel Drive,19,27,22,Compact Cars,2900,5,5,468,329,405,,5000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG CLA 35 4MATIC,2.0,4,Auto(AM8),8,All Wheel Drive,22,29,25,Compact Cars,2550,5,5,409,304,362,,3250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG CLA 45 S 4MATIC,2.0,4,Auto(AM8),8,All Wheel Drive,20,28,23,Compact Cars,2750,5,5,438,308,379,,4250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG CLE 53 4MATIC+ (convertible),3.0,6,Auto(A9),9,All Wheel Drive,19,26,22,Subcompact Cars,2900,5,5,459,346,408,,5000.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG CLE 53 4MATIC+ (coupe),3.0,6,Auto(A9),9,All Wheel Drive,20,27,23,Subcompact Cars,2750,5,5,444,327,391,,4250.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG G 63,4.0,8,Auto(A9),9,4-Wheel Drive,14,16,15,Standard SUV 4WD,4250,2,2,654,553,608,,11750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLA 35 4MATIC,2.0,4,Auto(AM8),8,All Wheel Drive,22,28,24,Small Station Wagons,2650,5,5,411,320,370,,3750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLB 35 4MATIC,2.0,4,Auto(AM8),8,All Wheel Drive,21,26,23,Midsize Station Wagons,2750,5,5,433,336,390,,4250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC,2.0,4,Auto(A9),9,All Wheel Drive,19,25,21,Small Station Wagons,3050,4,4,476,357,423,,5750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC (coupe),2.0,4,Auto(A9),9,All Wheel Drive,18,24,21,Small Station Wagons,3050,4,4,483,371,433,,5750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+,3.0,6,Auto(A9),9,All Wheel Drive,18,23,20,Standard SUV 4WD,3200,4,4,484,384,439,,6500.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+ (coupe),3.0,6,Auto(A9),9,All Wheel Drive,18,22,20,Standard SUV 4WD,3200,4,4,497,401,454,,6500.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+,4.0,8,Auto(A9),9,All Wheel Drive,14,19,16,Standard SUV 4WD,4000,3,3,631,459,554,,10500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+ (coupe),4.0,8,Auto(A9),9,All Wheel Drive,14,19,16,Standard SUV 4WD,4000,3,3,631,459,554,,10500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GLS 63 4MATIC+,4.0,8,Auto(A9),9,All Wheel Drive,14,18,15,Standard SUV 4WD,4250,2,2,647,493,578,,11750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GT 43 (coupe),2.0,4,Auto(A9),9,"2-Wheel Drive, Rear",19,27,22,Subcompact Cars,2900,5,5,464,333,405,,5000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GT 43 4MATIC+,3.0,6,Auto(A9),9,All Wheel Drive,19,24,21,Small Station Wagons,3050,4,4,464,374,424,,5750.0,,Other,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GT 53 4MATIC+,3.0,6,Auto(A9),9,All Wheel Drive,19,24,21,Small Station Wagons,3050,4,4,464,374,424,,5750.0,,Other,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GT 55 4MATIC+ (coupe),4.0,8,Auto(A9),9,All Wheel Drive,12,19,14,Two Seaters,4550,2,2,743,476,623,,13250.0,G,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GT 63 4MATIC+,4.0,8,Auto(A9),9,All Wheel Drive,15,21,17,Compact Cars,3750,3,3,579,430,512,,9250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GT 63 4MATIC+ (coupe),4.0,8,Auto(A9),9,All Wheel Drive,12,19,14,Two Seaters,4550,2,2,743,476,623,,13250.0,G,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG GT 63 PRO 4MATIC+ (coupe),4.0,8,Auto(A9),9,All Wheel Drive,12,19,14,Two Seaters,4550,2,2,743,476,623,,13250.0,G,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG SL 43,2.0,4,Auto(A9),9,"2-Wheel Drive, Rear",19,27,22,Minicompact Cars,2900,5,5,459,329,400,,5000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG SL 55 4MATIC+,4.0,8,Auto(A9),9,All Wheel Drive,13,21,16,Minicompact Cars,4000,3,3,667,424,558,,10500.0,G,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,AMG SL 63 4MATIC+,4.0,8,Auto(A9),9,All Wheel Drive,13,21,16,Minicompact Cars,4000,3,3,667,424,558,,10500.0,G,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,C 300,2.0,4,Auto(A9),9,"2-Wheel Drive, Rear",25,35,29,Compact Cars,2200,6,6,352,252,307,,1500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,C 300 4MATIC,2.0,4,Auto(A9),9,All Wheel Drive,24,33,27,Compact Cars,2350,5,5,379,268,329,,2250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,CLA 250,2.0,4,Auto(AM8),8,"2-Wheel Drive, Front",26,36,30,Compact Cars,2100,6,6,339,247,298,,1000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,CLA 250 4MATIC,2.0,4,Auto(AM8),8,All Wheel Drive,25,34,29,Compact Cars,2200,6,6,353,260,311,,1500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,CLE 300 4MATIC (convertible),2.0,4,Auto(A9),9,All Wheel Drive,23,32,26,Subcompact Cars,2450,5,5,389,279,340,,2750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,CLE 300 4MATIC (Coupe),2.0,4,Auto(A9),9,All Wheel Drive,24,33,27,Subcompact Cars,2350,5,5,368,268,323,,2250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,CLE 450 4MATIC (Convertible),3.0,6,Auto(A9),9,All Wheel Drive,23,32,26,Subcompact Cars,2450,5,5,386,279,338,,2750.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,CLE 450 4MATIC (Coupe),3.0,6,Auto(A9),9,All Wheel Drive,23,33,26,Subcompact Cars,2450,5,5,394,271,339,,2750.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,E 350,2.0,4,Auto(A9),9,"2-Wheel Drive, Rear",25,33,28,Midsize Cars,2300,6,6,359,264,316,,2000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,E 350 4MATIC,2.0,4,Auto(A9),9,All Wheel Drive,24,33,27,Midsize Cars,2350,5,5,375,269,327,,2250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC,3.0,6,Auto(A9),9,All Wheel Drive,22,31,25,Midsize Cars,2550,5,5,409,290,355,,3250.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,3.0,6,Auto(A9),9,All Wheel Drive,22,31,25,Midsize Station Wagons,2550,5,5,402,289,351,,3250.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,G 550,3.0,6,Auto(A9),9,4-Wheel Drive,17,19,18,Standard SUV 4WD,3550,4,4,510,465,490,,8250.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLA 250,2.0,4,Auto(AM8),8,"2-Wheel Drive, Front",26,34,29,Special Purpose Vehicle 2WD,2200,6,6,344,260,306,,1500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLA 250 4MATIC,2.0,4,Auto(AM8),8,All Wheel Drive,25,33,28,Small SUV 4WD,2300,6,6,353,269,315,,2000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLB 250,2.0,4,Auto(AM8),8,"2-Wheel Drive, Front",25,33,28,Special Purpose Vehicle 2WD,2300,6,6,348,265,311,,2000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLB 250 4MATIC,2.0,4,Auto(AM8),8,All Wheel Drive,24,33,27,Small SUV 4WD,2350,5,5,368,270,324,,2250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLC 300,2.0,4,Auto(A9),9,"2-Wheel Drive, Rear",24,32,27,Small SUV 2WD,2350,5,5,365,273,323,,2250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC,2.0,4,Auto(A9),9,All Wheel Drive,23,31,26,Small SUV 4WD,2450,5,5,380,287,338,,2750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC (Coupe),2.0,4,Auto(A9),9,All Wheel Drive,23,31,26,Small SUV 4WD,2450,5,5,379,287,337,,2750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLE 350,2.0,4,Auto(A9),9,"2-Wheel Drive, Rear",21,28,23,Small SUV 4WD,2750,5,5,434,318,382,,4250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLE 350 4MATIC,2.0,4,Auto(A9),9,All Wheel Drive,19,26,22,Small SUV 4WD,2900,5,5,461,347,410,,5000.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLE 450 4MATIC,3.0,6,Auto(A9),9,All Wheel Drive,19,25,21,Standard SUV 4WD,3050,4,4,474,363,424,,5750.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLE 450 4MATIC (coupe),3.0,6,Auto(A9),9,All Wheel Drive,19,25,21,Standard SUV 4WD,3050,4,4,474,363,424,,5750.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLE 580 4MATIC,4.0,8,Auto(A9),9,All Wheel Drive,15,20,17,Standard SUV 4WD,3750,3,3,602,435,527,,9250.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLS 450 4MATIC,3.0,6,Auto(A9),9,All Wheel Drive,19,24,21,Standard SUV 4WD,3050,4,4,481,364,428,,5750.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLS 580 4MATIC,4.0,8,Auto(A9),9,All Wheel Drive,14,19,16,Standard SUV 4WD,4000,3,3,625,454,548,,10500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,GLS 600 4MATIC Maybach,4.0,8,Auto(A9),9,All Wheel Drive,13,18,15,Standard SUV 4WD,4250,2,2,672,485,588,,11750.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,S 500 4MATIC,3.0,6,Auto(A9),9,All Wheel Drive,21,31,24,Large Cars,2650,5,5,425,290,364,,3750.0,,Turbocharged+Supercharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,S 580 4MATIC,4.0,8,Auto(A9),9,All Wheel Drive,17,25,20,Large Cars,3200,4,4,528,350,448,,6500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,S 580 4MATIC Maybach,4.0,8,Auto(A9),9,All Wheel Drive,16,27,20,Large Cars,3200,4,4,549,330,451,,6500.0,,Turbocharged,Yes
+2025,Mercedes-Benz,Mercedes-Benz,S 680 4MATIC Maybach,6.0,12,Auto(A9),9,All Wheel Drive,12,20,15,Large Cars,4250,2,2,741,435,603,,11750.0,G,Turbocharged,Yes
+2025,BMW,Mini,Cooper Convertible,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",27,37,30,Minicompact Cars,2100,6,6,327,238,287,,1000.0,,Turbocharged,Yes
+2025,BMW,Mini,Cooper Hardtop 2 Door,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",28,39,32,Subcompact Cars,2000,6,6,316,224,274,,500.0,,Turbocharged,Yes
+2025,BMW,Mini,Cooper Hardtop 4 Door,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",28,39,32,Compact Cars,2000,6,6,318,225,276,,500.0,,Turbocharged,Yes
+2025,BMW,Mini,Cooper S Convertible,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",26,36,30,Minicompact Cars,2100,6,6,330,245,292,,1000.0,,Turbocharged,Yes
+2025,BMW,Mini,COOPER S HARDTOP 2 DOOR,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",28,39,32,Subcompact Cars,2000,6,6,316,226,275,,500.0,,Turbocharged,Yes
+2025,BMW,Mini,Cooper S Hardtop 4 Door,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",28,39,32,Compact Cars,2000,6,6,311,226,273,,500.0,,Turbocharged,Yes
+2025,BMW,Mini,Countryman S ALL4,2.0,4,Auto(AM-S7),7,All Wheel Drive,24,32,27,Small SUV 4WD,2350,5,5,365,271,323,,2250.0,,Turbocharged,Yes
+2025,BMW,Mini,JCW Convertible,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",26,35,30,Minicompact Cars,2100,6,6,335,247,296,,1000.0,,Turbocharged,Yes
+2025,BMW,Mini,JCW Countryman ALL4,2.0,4,Auto(AM-S7),7,All Wheel Drive,23,30,26,Small SUV 4WD,2450,5,5,381,293,341,,2750.0,,Turbocharged,Yes
+2025,BMW,Mini,JCW Hardtop 2 Door,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",27,37,30,Subcompact Cars,2100,6,6,328,238,288,,1000.0,,Turbocharged,Yes
+2025,Nissan,MITSUBISHI MOTORS,Outlander 2WD,2.5,4,Auto(AV-S8),8,"2-Wheel Drive, Front",24,31,27,Small SUV 2WD,1950,5,5,370,287,333,,250.0,,Naturally Aspirated,No
+2025,Nissan,MITSUBISHI MOTORS,Outlander 4WD,2.5,4,Auto(AV-S8),8,4-Wheel Drive,24,30,26,Small SUV 4WD,2000,5,5,366,292,342,,500.0,,Naturally Aspirated,No
+2025,Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS 2WD,1.5,4,Auto(AV-S8),8,"2-Wheel Drive, Front",25,28,26,Small SUV 2WD,2000,5,5,354,311,339,,500.0,,Turbocharged,No
+2025,Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS 4WD,1.5,4,Auto(AV-S8),8,4-Wheel Drive,25,26,25,Small SUV 4WD,2100,5,5,354,338,353,,1000.0,,Turbocharged,No
+2025,Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS ES 4WD,1.5,4,Auto(AV-S8),8,4-Wheel Drive,25,28,26,Small SUV 4WD,2000,5,5,354,312,339,,500.0,,Turbocharged,No
+2025,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 4WD,2.0,4,Auto(AV-S6),6,4-Wheel Drive,23,29,26,Small SUV 4WD,2000,5,5,377,302,343,,500.0,,Naturally Aspirated,No
+2025,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 4WD,2.4,4,Auto(AV-S6),6,4-Wheel Drive,23,28,25,Small SUV 4WD,2100,5,5,383,309,350,,1000.0,,Naturally Aspirated,No
+2025,Nissan,NISSAN,ALTIMA,2.5,4,Auto(AV),1,"2-Wheel Drive, Front",27,39,32,Midsize Cars,1650,6,6,322,230,281,1250.0,,,Naturally Aspirated,No
+2025,Nissan,NISSAN,ALTIMA AWD,2.5,4,Auto(AV),1,All Wheel Drive,25,34,28,Midsize Cars,1900,6,6,355,261,317,0.0,,,Naturally Aspirated,No
+2025,Nissan,NISSAN,ALTIMA SL/SR,2.5,4,Auto(AV),1,"2-Wheel Drive, Front",27,37,31,Midsize Cars,1700,6,6,328,238,287,1000.0,,,Naturally Aspirated,No
+2025,Nissan,NISSAN,ARMADA 2WD,3.5,6,Auto(S9),9,"2-Wheel Drive, Rear",16,20,18,Standard SUV 2WD,3550,4,4,540,444,497,,8250.0,,Turbocharged,Yes
+2025,Nissan,NISSAN,ARMADA 4WD,3.5,6,Auto(S9),9,4-Wheel Drive,16,19,17,Standard SUV 4WD,3750,3,3,557,469,524,,9250.0,,Turbocharged,Yes
+2025,Nissan,NISSAN,ARMADA 4WD PRO-4X,3.5,6,Auto(S9),9,4-Wheel Drive,15,18,16,Standard SUV 4WD,4000,3,3,594,488,556,,10500.0,,Turbocharged,Yes
+2025,Nissan,NISSAN,FRONTIER 2WD,3.8,6,Auto(S9),9,"2-Wheel Drive, Rear",19,24,21,Standard Pick-up Trucks 2WD,2500,4,4,481,372,432,,3000.0,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,FRONTIER 4WD,3.8,6,Auto(S9),9,Part-time 4-Wheel Drive,17,21,19,Standard Pick-up Trucks 4WD,2750,4,4,525,425,470,,4250.0,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,FRONTIER 4WD PRO-4X,3.8,6,Auto(S9),9,Part-time 4-Wheel Drive,16,20,18,Standard Pick-up Trucks 4WD,2900,4,4,556,446,495,,5000.0,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,KICKS,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",28,35,31,Small SUV 2WD,1700,6,6,318,253,287,1000.0,,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,KICKS AWD,2.0,4,Auto(AV),1,All Wheel Drive,27,34,30,Small SUV 4WD,1750,6,6,330,261,299,750.0,,,Naturally Aspirated,No
+2025,Nissan,NISSAN,KICKS PLAY,1.6,4,Auto(AV),1,"2-Wheel Drive, Front",31,36,33,Midsize Cars,1600,6,6,287,246,268,1500.0,,,Naturally Aspirated,No
+2025,Nissan,NISSAN,MURANO AWD,2.0,4,Auto(S9),9,All Wheel Drive,21,27,23,Small SUV 4WD,2300,5,5,424,326,387,,2000.0,,Turbocharged,Yes
+2025,Nissan,NISSAN,MURANO FWD,2.0,4,Auto(S9),9,"2-Wheel Drive, Front",21,27,23,Small SUV 2WD,2300,5,5,424,330,387,,2000.0,,Turbocharged,Yes
+2025,Nissan,NISSAN,PATHFINDER 2WD,3.5,6,Auto(S9),9,"2-Wheel Drive, Front",20,27,23,Small SUV 2WD,2300,5,5,436,334,390,,2000.0,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,PATHFINDER 4WD,3.5,6,Auto(S9),9,4-Wheel Drive,21,27,23,Small SUV 4WD,2300,5,5,424,325,379,,2000.0,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,PATHFINDER 4WD PLATINUM,3.5,6,Auto(S9),9,4-Wheel Drive,20,25,22,Standard SUV 4WD,2400,5,5,441,350,400,,2500.0,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,PATHFINDER 4WD ROCK CREEK,3.5,6,Auto(S9),9,4-Wheel Drive,20,23,21,Small SUV 4WD,3050,4,4,452,377,418,,5750.0,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,ROGUE AWD,1.5,3,Auto(AV-S8),8,All Wheel Drive,28,35,31,Small SUV 4WD,1700,6,6,317,254,287,1000.0,,,Turbocharged,Yes
+2025,Nissan,NISSAN,ROGUE AWD ROCK CREEK,1.5,3,Auto(AV-S8),8,All Wheel Drive,27,32,29,Small SUV 4WD,1800,6,6,330,278,307,500.0,,,Turbocharged,Yes
+2025,Nissan,NISSAN,ROGUE AWD SL/PLATINUM,1.5,3,Auto(AV-S8),8,All Wheel Drive,28,34,31,Small SUV 4WD,1700,6,6,318,262,287,1000.0,,,Turbocharged,Yes
+2025,Nissan,NISSAN,ROGUE FWD,1.5,3,Auto(AV-S8),8,"2-Wheel Drive, Front",30,37,33,Small SUV 2WD,1600,6,6,296,240,269,1500.0,,,Turbocharged,Yes
+2025,Nissan,NISSAN,ROGUE FWD SL/PLATINUM,1.5,3,Auto(AV-S8),8,"2-Wheel Drive, Front",29,36,32,Small SUV 2WD,1650,6,6,307,247,278,1250.0,,,Turbocharged,Yes
+2025,Nissan,NISSAN,SENTRA,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",30,40,34,Midsize Cars,1550,7,7,297,220,262,1750.0,,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,SENTRA SR,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",30,38,33,Midsize Cars,1600,6,6,297,234,270,1500.0,,,Naturally Aspirated,Yes
+2025,Nissan,NISSAN,VERSA,1.6,4,Auto(AV),1,"2-Wheel Drive, Front",32,40,35,Compact Cars,1500,7,7,280,221,253,2000.0,,,Naturally Aspirated,No
+2025,Nissan,NISSAN,VERSA,1.6,4,Manual(M5),5,"2-Wheel Drive, Front",27,35,30,Compact Cars,1750,6,6,328,254,296,750.0,,,Naturally Aspirated,No
+2025,Nissan,NISSAN,Z,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",18,24,20,Two Seaters,3200,4,4,489,368,435,,6500.0,,Turbocharged,No
+2025,Nissan,NISSAN,Z,3.0,6,Auto(S9),9,"2-Wheel Drive, Rear",19,28,22,Two Seaters,2900,5,5,469,318,405,,5000.0,,Turbocharged,No
+2025,Nissan,NISSAN,Z NISMO,3.0,6,Auto(S9),9,"2-Wheel Drive, Rear",17,24,19,Two Seaters,3350,4,4,524,371,469,,7250.0,,Turbocharged,No
+2025,Porsche,Porsche,718 Boxster,2.0,4,Manual(M6),6,"2-Wheel Drive, Rear",20,25,22,Two Seaters,2900,5,5,452,358,409,,5000.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 Boxster,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Rear",21,27,24,Two Seaters,2650,5,5,414,328,375,,3750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 Boxster GTS 4.0,4.0,6,Manual(M6),6,"2-Wheel Drive, Rear",17,24,19,Two Seaters,3350,4,4,523,377,458,,7250.0,,Naturally Aspirated,No
+2025,Porsche,Porsche,718 Boxster GTS 4.0,4.0,6,Auto(AM-S7),7,"2-Wheel Drive, Rear",19,24,21,Two Seaters,3050,4,4,460,367,418,,5750.0,,Naturally Aspirated,No
+2025,Porsche,Porsche,718 Boxster S,2.5,4,Manual(M6),6,"2-Wheel Drive, Rear",19,24,21,Two Seaters,3050,4,4,472,363,423,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 Boxster S,2.5,4,Auto(AM-S7),7,"2-Wheel Drive, Rear",19,25,22,Two Seaters,2900,5,5,461,348,410,,5000.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 Cayman,2.0,4,Manual(M6),6,"2-Wheel Drive, Rear",20,25,22,Two Seaters,2900,5,5,452,358,409,,5000.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 Cayman,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Rear",21,27,24,Two Seaters,2650,5,5,414,328,375,,3750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 Cayman GTS 4.0,4.0,6,Manual(M6),6,"2-Wheel Drive, Rear",17,24,19,Two Seaters,3350,4,4,523,377,458,,7250.0,,Naturally Aspirated,No
+2025,Porsche,Porsche,718 Cayman GTS 4.0,4.0,6,Auto(AM-S7),7,"2-Wheel Drive, Rear",19,24,21,Two Seaters,3050,4,4,460,367,418,,5750.0,,Naturally Aspirated,No
+2025,Porsche,Porsche,718 Cayman S,2.5,4,Manual(M6),6,"2-Wheel Drive, Rear",19,24,21,Two Seaters,3050,4,4,472,363,423,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 Cayman S,2.5,4,Auto(AM-S7),7,"2-Wheel Drive, Rear",19,25,22,Two Seaters,2900,5,5,461,348,410,,5000.0,,Turbocharged,Yes
+2025,Porsche,Porsche,718 GT4 RS,4.0,6,Auto(AM-S7),7,"2-Wheel Drive, Rear",15,19,16,Two Seaters,4000,3,3,605,469,544,,10500.0,G,Naturally Aspirated,Yes
+2025,Porsche,Porsche,718 Spyder RS,4.0,6,Auto(AM-S7),7,"2-Wheel Drive, Rear",14,19,16,Two Seaters,4000,3,3,621,466,551,,10500.0,G,Naturally Aspirated,Yes
+2025,Porsche,Porsche,911 Carrera,3.0,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",18,25,21,Minicompact Cars,3050,4,4,486,348,424,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera 4 GTS,3.6,6,Auto(AM-S8),8,All Wheel Drive,17,23,19,Minicompact Cars,3350,4,4,521,388,461,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera 4 GTS Cabriolet,3.6,6,Auto(AM-S8),8,All Wheel Drive,17,23,19,Minicompact Cars,3350,4,4,512,383,468,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera Cabriolet,3.0,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",18,25,21,Minicompact Cars,3050,4,4,489,354,429,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera GTS,3.6,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",17,24,20,Minicompact Cars,3200,4,4,499,368,440,,6500.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera GTS Cabriolet,3.6,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",17,23,19,Minicompact Cars,3350,4,4,520,383,459,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera GTS Cabriolet,3.6,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",17,23,19,Minicompact Cars,3350,4,4,520,383,459,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera S,3.0,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",17,24,20,Minicompact Cars,3200,4,4,490,361,432,,6500.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera S Cabriolet,3.0,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",17,24,20,Minicompact Cars,3200,4,4,500,357,436,,6500.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera T,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",17,25,20,Minicompact Cars,3200,4,4,523,356,448,,6500.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Carrera T Cabriolet,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",17,25,19,Minicompact Cars,3350,4,4,526,356,469,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Targa 4 GTS,3.6,6,Auto(AM-S8),8,All Wheel Drive,17,23,19,Minicompact Cars,3350,4,4,516,381,468,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,911 Turbo,3.7,6,Auto(AM-S8),8,All Wheel Drive,14,21,17,Minicompact Cars,3750,3,3,620,430,534,,9250.0,G,Turbocharged,Yes
+2025,Porsche,Porsche,911 Turbo Cabriolet,3.7,6,Auto(AM-S8),8,All Wheel Drive,14,20,16,Minicompact Cars,4000,3,3,637,435,546,,10500.0,G,Turbocharged,Yes
+2025,Porsche,Porsche,911 Turbo S,3.7,6,Auto(AM-S8),8,All Wheel Drive,14,20,16,Minicompact Cars,4000,3,3,627,445,556,,10500.0,G,Turbocharged,Yes
+2025,Porsche,Porsche,911 Turbo S Cabriolet,3.7,6,Auto(AM-S8),8,All Wheel Drive,14,20,16,Minicompact Cars,4000,3,3,633,447,549,,10500.0,G,Turbocharged,Yes
+2025,Porsche,Porsche,Cayenne,3.0,6,Auto(S8),8,All Wheel Drive,17,23,19,Standard SUV 4WD,3350,4,4,524,388,469,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Cayenne Coupe,3.0,6,Auto(S8),8,All Wheel Drive,17,23,19,Standard SUV 4WD,3350,4,4,524,386,469,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Cayenne GTS,4.0,8,Auto(S8),8,All Wheel Drive,15,22,18,Standard SUV 4WD,3550,4,4,570,410,498,,8250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Cayenne GTS Coupe,4.0,8,Auto(S8),8,All Wheel Drive,16,22,18,Standard SUV 4WD,3550,4,4,557,405,489,,8250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Cayenne S,4.0,8,Auto(S8),8,All Wheel Drive,16,21,18,Standard SUV 4WD,3550,4,4,549,423,492,,8250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Cayenne S Coupe,4.0,8,Auto(S8),8,All Wheel Drive,16,21,18,Standard SUV 4WD,3550,4,4,549,423,492,,8250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Cayenne Turbo GT,4.0,8,Auto(S8),8,All Wheel Drive,15,20,17,Standard SUV 4WD,3750,3,3,583,444,521,,9250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Macan,2.0,4,Auto(AM-S7),7,All Wheel Drive,19,25,21,Small SUV 4WD,3050,4,4,468,352,424,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Macan GTS,2.9,6,Auto(AM-S7),7,All Wheel Drive,17,22,19,Small SUV 4WD,3350,4,4,506,403,466,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Macan S,2.9,6,Auto(AM-S7),7,All Wheel Drive,17,23,19,Small SUV 4WD,3350,4,4,520,381,466,,7250.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Macan T,2.0,4,Auto(AM-S7),7,All Wheel Drive,19,25,21,Small SUV 4WD,3050,4,4,463,361,417,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Panamera,2.9,6,Auto(AM-S8),8,"2-Wheel Drive, Rear",18,25,21,Large Cars,3050,4,4,493,355,431,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Panamera 4,2.9,6,Auto(AM-S8),8,All Wheel Drive,18,25,21,Large Cars,3050,4,4,496,356,425,,5750.0,,Turbocharged,Yes
+2025,Porsche,Porsche,Panamera GTS,4.0,8,Auto(AM-S8),8,All Wheel Drive,16,24,18,Large Cars,3550,4,4,557,372,495,,8250.0,,Turbocharged,Yes
+2025,FCA US LLC,RAM,1500 4X2,3.0,6,Auto(A8),8,"2-Wheel Drive, Rear",18,25,21,Standard Pick-up Trucks 2WD,2500,4,4,497,356,433,,3000.0,,Turbocharged,Yes
+2025,FCA US LLC,RAM,1500 4X2,3.6,6,Auto(A8),8,"2-Wheel Drive, Rear",20,25,22,Standard Pick-up Trucks 2WD,2400,5,5,451,353,407,,2500.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,RAM,1500 4X4,3.0,6,Auto(A8),8,4-Wheel Drive,17,24,19,Standard Pick-up Trucks 4WD,2750,4,4,529,370,458,,4250.0,,Turbocharged,Yes
+2025,FCA US LLC,RAM,1500 4X4,3.6,6,Auto(A8),8,4-Wheel Drive,19,24,21,Standard Pick-up Trucks 4WD,2500,4,4,458,367,417,,3000.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,RAM,1500 HFE 4X2,3.6,6,Auto(A8),8,"2-Wheel Drive, Rear",20,26,23,Standard Pick-up Trucks 2WD,2300,5,5,438,340,394,,2000.0,,Naturally Aspirated,Yes
+2025,FCA US LLC,RAM,1500 HO 4x4,3.0,6,Auto(A8),8,4-Wheel Drive,15,21,17,Standard Pick-up Trucks 4WD,3750,3,3,593,434,521,,9250.0,,Turbocharged,Yes
+2025,FCA US LLC,RAM,1500 RHO 4x4,3.0,6,Auto(A8),8,4-Wheel Drive,14,16,15,Standard Pick-up Trucks 4WD,4250,2,2,634,564,602,,11750.0,,Turbocharged,Yes
+2025,Rolls-Royce,Rolls-Royce Motor Cars Limited,Black Badge Cullinan,6.7,12,Auto(S8),8,All Wheel Drive,12,19,14,Standard SUV 4WD,4550,2,2,732,459,609,,13250.0,,Turbocharged,No
+2025,Rolls-Royce,Rolls-Royce Motor Cars Limited,Black Badge Ghost,6.7,12,Auto(S8),8,All Wheel Drive,12,19,14,Large Cars,4550,2,2,732,459,609,,13250.0,G,Turbocharged,No
+2025,Rolls-Royce,Rolls-Royce Motor Cars Limited,Cullinan,6.7,12,Auto(S8),8,All Wheel Drive,12,19,14,Standard SUV 4WD,4550,2,2,732,459,609,,13250.0,,Turbocharged,No
+2025,Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost,6.7,12,Auto(S8),8,All Wheel Drive,12,19,14,Large Cars,4550,2,2,732,459,609,,13250.0,G,Turbocharged,No
+2025,Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost Extended,6.7,12,Auto(S8),8,All Wheel Drive,12,19,14,Large Cars,4550,2,2,732,459,609,,13250.0,G,Turbocharged,No
+2025,Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom,6.7,12,Auto(S8),8,"2-Wheel Drive, Rear",12,19,14,Large Cars,4550,2,2,732,459,609,,13250.0,G,Turbocharged,No
+2025,Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom Extended,6.7,12,Auto(S8),8,"2-Wheel Drive, Rear",12,19,14,Large Cars,4550,2,2,732,459,609,,13250.0,G,Turbocharged,No
+2025,Subaru,Subaru,ASCENT AWD,2.4,4,Auto(AV-S8),8,All Wheel Drive,20,26,22,Standard SUV 4WD,2400,5,5,444,343,398,,2500.0,,Turbocharged,No
+2025,Subaru,Subaru,ASCENT LIMITED/TOURING/ONYX EDITION AWD,2.4,4,Auto(AV-S8),8,All Wheel Drive,19,25,21,Standard SUV 4WD,2500,4,4,470,356,419,,3000.0,,Turbocharged,No
+2025,Subaru,Subaru,BRZ,2.4,4,Manual(M6),6,"2-Wheel Drive, Rear",20,27,22,Minicompact Cars,2900,5,5,452,332,398,,5000.0,,Naturally Aspirated,No
+2025,Subaru,Subaru,BRZ,2.4,4,Auto(S6),6,"2-Wheel Drive, Rear",21,30,25,Minicompact Cars,2550,5,5,419,292,362,,3250.0,,Naturally Aspirated,No
+2025,Subaru,Subaru,CROSSTREK AWD,2.0,4,Auto(AV-S8),8,All Wheel Drive,27,34,29,Small SUV 4WD,1800,6,6,331,263,300,500.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,CROSSTREK AWD,2.5,4,Auto(AV-S8),8,All Wheel Drive,27,33,29,Small SUV 4WD,1800,6,6,334,270,305,500.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,CROSSTREK WILDERNESS AWD,2.5,4,Auto(AV-S8),8,All Wheel Drive,25,29,27,Small SUV 4WD,1950,5,5,353,306,332,,250.0,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,FORESTER AWD,2.5,4,Auto(AV-S8),8,All Wheel Drive,26,33,29,Small SUV 4WD,1800,6,6,343,269,310,500.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,FORESTER HYBRID AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,35,34,35,Small SUV 4WD,1500,7,7,251,260,255,2000.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,FORESTER SPORT/TOURING AWD,2.5,4,Auto(AV-S8),8,All Wheel Drive,25,32,28,Small SUV 4WD,1900,6,6,350,278,317,0.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,FORESTER WILDERNESS AWD,2.5,4,Auto(AV-S8),8,All Wheel Drive,25,28,26,Small SUV 4WD,2000,5,5,359,313,338,,500.0,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,IMPREZA,2.0,4,Auto(AV-S8),8,All Wheel Drive,27,34,30,Small Station Wagons,1750,6,6,328,260,297,750.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,IMPREZA,2.5,4,Auto(AV-S8),8,All Wheel Drive,26,33,29,Small Station Wagons,1800,6,6,337,268,306,500.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,LEGACY,2.5,4,Auto(AV-S8),8,All Wheel Drive,27,35,30,Midsize Cars,1750,6,6,330,253,295,750.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,LEGACY,2.4,4,Auto(AV-S8),8,All Wheel Drive,23,31,26,Midsize Cars,2000,5,5,381,283,337,,500.0,,Turbocharged,Yes
+2025,Subaru,Subaru,OUTBACK AWD,2.5,4,Auto(AV-S8),8,All Wheel Drive,26,32,28,Small SUV 4WD,1900,6,6,345,276,314,0.0,,,Naturally Aspirated,Yes
+2025,Subaru,Subaru,OUTBACK AWD,2.4,4,Auto(AV-S8),8,All Wheel Drive,22,29,25,Small SUV 4WD,2100,5,5,398,304,356,,1000.0,,Turbocharged,Yes
+2025,Subaru,Subaru,OUTBACK WILDERNESS AWD,2.4,4,Auto(AV-S8),8,All Wheel Drive,21,26,23,Small SUV 4WD,2300,5,5,412,336,378,,2000.0,,Turbocharged,Yes
+2025,Subaru,Subaru,WRX,2.4,4,Manual(M6),6,All Wheel Drive,19,26,22,Midsize Cars,2900,5,5,471,343,413,,5000.0,,Turbocharged,No
+2025,Subaru,Subaru,WRX,2.4,4,Auto(AV-S8),8,All Wheel Drive,18,25,21,Midsize Cars,3050,4,4,478,353,422,,5750.0,,Turbocharged,No
+2025,Toyota,TOYOTA,4RUNNER 2WD,2.4,4,Auto(S8),8,"2-Wheel Drive, Rear",20,26,22,Standard SUV 2WD,2400,5,5,445,343,399,,2500.0,,Turbocharged,No
+2025,Toyota,TOYOTA,4RUNNER 2WD,2.4,4,Auto(S8),8,"2-Wheel Drive, Rear",20,24,22,Standard SUV 2WD,2400,5,5,436,365,404,,2500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,4RUNNER 4WD,2.4,4,Auto(S8),8,Part-time 4-Wheel Drive,19,25,21,Standard SUV 4WD,2500,4,4,464,358,417,,3000.0,,Turbocharged,No
+2025,Toyota,TOYOTA,4RUNNER 4WD,2.4,4,Auto(S8),8,4-Wheel Drive,20,24,21,Standard SUV 4WD,2500,4,4,451,371,415,,3000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,4RUNNER 4WD,2.4,4,Auto(S8),8,Part-time 4-Wheel Drive,23,24,23,Standard SUV 4WD,2300,5,5,392,366,380,,2000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,4RUNNER 4WD,2.4,4,Auto(S8),8,4-Wheel Drive,23,24,23,Standard SUV 4WD,2300,5,5,393,365,380,,2000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,CAMRY HEV AWD LE,2.5,4,Auto(AV-S6),6,All Wheel Drive,51,49,50,Midsize Cars,1050,8,8,174,182,177,4250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,CAMRY HEV AWD SE/XLE,2.5,4,Auto(AV-S6),6,All Wheel Drive,46,46,46,Midsize Cars,1150,8,8,189,189,189,3750.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,CAMRY HEV AWD XSE,2.5,4,Auto(AV-S6),6,All Wheel Drive,44,43,44,Midsize Cars,1200,7,7,199,204,199,3500.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,CAMRY HEV FF LE,2.5,4,Auto(AV-S6),6,"2-Wheel Drive, Front",53,50,51,Midsize Cars,1050,8,8,168,179,173,4250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,CAMRY HEV FF SE/XLE/XSE,2.5,4,Auto(AV-S6),6,"2-Wheel Drive, Front",48,47,47,Midsize Cars,1100,8,8,184,188,186,4000.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,COROLLA,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",32,41,35,Compact Cars,1500,7,7,277,216,254,2000.0,,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,COROLLA,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",31,40,34,Compact Cars,1550,7,7,286,223,257,1750.0,,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,COROLLA,2.0,4,Auto(AV-S10),10,"2-Wheel Drive, Front",31,38,34,Compact Cars,1550,7,7,292,232,265,1750.0,,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,COROLLA CROSS,2.0,4,Auto(AV-S10),10,"2-Wheel Drive, Front",31,33,32,Small SUV 2WD,1650,6,6,283,267,276,1250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,COROLLA CROSS AWD,2.0,4,Auto(AV-S10),10,All Wheel Drive,29,31,30,Small SUV 4WD,1750,6,6,305,282,294,750.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,COROLLA CROSS HYBRID AWD,2.0,4,Auto(AV-S6),6,All Wheel Drive,45,38,42,Small SUV 4WD,1250,7,7,195,231,209,3250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,COROLLA FX,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",31,39,34,Compact Cars,1550,7,7,289,226,261,1750.0,,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,COROLLA HATCHBACK,2.0,4,Auto(AV-S10),10,"2-Wheel Drive, Front",32,41,35,Compact Cars,1500,7,7,278,217,254,2000.0,,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,COROLLA HATCHBACK XSE,2.0,4,Auto(AV-S10),10,"2-Wheel Drive, Front",30,38,33,Compact Cars,1600,6,6,295,230,266,1500.0,,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,COROLLA HYBRID,1.8,4,Auto(AV),1,"2-Wheel Drive, Front",53,46,50,Compact Cars,1050,8,8,163,186,173,4250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,COROLLA HYBRID,1.8,4,Auto(AV),1,"2-Wheel Drive, Front",50,43,47,Compact Cars,1100,8,8,173,204,186,4000.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,COROLLA HYBRID AWD,1.8,4,Auto(AV),1,All Wheel Drive,51,44,48,Compact Cars,1100,8,8,167,194,179,4000.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,COROLLA HYBRID AWD,1.8,4,Auto(AV),1,All Wheel Drive,47,41,44,Compact Cars,1200,7,7,186,214,199,3500.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,GR COROLLA,1.6,3,Auto(S8),8,All Wheel Drive,19,27,22,Subcompact Cars,2900,5,5,455,321,395,,5000.0,,Turbocharged,No
+2025,Toyota,TOYOTA,GR COROLLA,1.6,3,Manual(M6),6,All Wheel Drive,21,28,24,Subcompact Cars,2650,5,5,415,311,368,,3750.0,,Turbocharged,No
+2025,Toyota,TOYOTA,GR86,2.4,4,Manual(M6),6,"2-Wheel Drive, Rear",20,26,22,Minicompact Cars,2900,5,5,454,336,401,,5000.0,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,GR86,2.4,4,Auto(S6),6,"2-Wheel Drive, Rear",21,30,24,Minicompact Cars,2650,5,5,423,296,366,,3750.0,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,GRAND HIGHLANDER AWD LE/XLE,2.4,4,Auto(S8),8,All Wheel Drive,21,27,23,Standard SUV 4WD,2300,5,5,424,325,379,,2000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,GRAND HIGHLANDER AWD LIMITED/PLATINUM,2.4,4,Auto(S8),8,All Wheel Drive,20,26,22,Standard SUV 4WD,2400,5,5,433,338,400,,2500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,GRAND HIGHLANDER HYBRID,2.5,4,Auto(AV-S6),6,"2-Wheel Drive, Front",37,34,36,Standard SUV 2WD,1450,7,7,237,258,246,2250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,GRAND HIGHLANDER HYBRID AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,36,32,34,Standard SUV 4WD,1550,7,7,245,275,258,1750.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,GRAND HIGHLANDER HYBRID AWD,2.4,4,Auto(S6),6,All Wheel Drive,26,27,27,Standard SUV 4WD,1950,5,5,338,325,332,,250.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,GRAND HIGHLANDER LE/XLE,2.4,4,Auto(S8),8,"2-Wheel Drive, Front",21,28,24,Standard SUV 2WD,2200,5,5,419,313,371,,1500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,GRAND HIGHLANDER LIMITED,2.4,4,Auto(S8),8,"2-Wheel Drive, Front",21,28,24,Standard SUV 2WD,2200,5,5,410,312,366,,1500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,HIGHLANDER,2.4,4,Auto(S8),8,"2-Wheel Drive, Front",22,29,25,Small SUV 2WD,2100,5,5,403,305,359,,1000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,HIGHLANDER,2.4,4,Auto(S8),8,"2-Wheel Drive, Front",21,28,24,Small SUV 2WD,2200,5,5,419,311,370,,1500.0,,Turbocharged,No
+2025,Toyota,TOYOTA,HIGHLANDER AWD,2.4,4,Auto(S8),8,All Wheel Drive,21,28,24,Small SUV 4WD,2200,5,5,415,318,371,,1500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,HIGHLANDER HYBRID AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,35,35,35,Standard SUV 4WD,1500,7,7,252,256,254,2000.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,HIGHLANDER HYBRID AWD LTD/PLAT,2.5,4,Auto(AV-S6),6,All Wheel Drive,35,34,35,Standard SUV 4WD,1500,7,7,248,259,253,2000.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,LAND CRUISER,2.4,4,Auto(S8),8,4-Wheel Drive,22,25,23,Standard SUV 4WD,2750,5,5,402,355,381,,4250.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,PRIUS,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",57,56,57,Midsize Cars,900,8,8,154,158,155,5000.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,PRIUS AWD,2.0,4,Auto(AV),1,Part-time 4-Wheel Drive,53,54,54,Midsize Cars,950,8,8,166,163,163,4750.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,PRIUS AWD XLE/LTD,2.0,4,Auto(AV),1,Part-time 4-Wheel Drive,49,50,49,Midsize Cars,1050,8,8,179,176,179,4250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,PRIUS XLE/LTD,2.0,4,Auto(AV),1,"2-Wheel Drive, Front",52,52,52,Midsize Cars,1000,8,8,168,169,169,4500.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,RAV4,2.5,4,Auto(S8),8,"2-Wheel Drive, Front",27,35,30,Small SUV 2WD,1750,6,6,321,256,292,750.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,RAV4 AWD,2.5,4,Auto(S8),8,All Wheel Drive,27,33,29,Small SUV 4WD,1800,6,6,330,267,301,500.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,RAV4 AWD,2.5,4,Auto(S8),8,All Wheel Drive,25,33,28,Small SUV 4WD,1900,6,6,360,270,320,0.0,,,Naturally Aspirated,No
+2025,Toyota,TOYOTA,RAV4 AWD LE,2.5,4,Auto(S8),8,All Wheel Drive,27,34,30,Small SUV 4WD,1750,6,6,325,260,296,750.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,RAV4 HYBRID AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,41,38,39,Small SUV 4WD,1350,7,7,215,235,224,2750.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,RAV4 HYBRID AWD WOODLAND EDITION,2.5,4,Auto(AV-S6),6,All Wheel Drive,38,35,37,Small SUV 4WD,1400,7,7,229,253,240,2500.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,SEQUOIA 2WD,3.4,6,Auto(S10),10,"2-Wheel Drive, Rear",21,24,22,Standard SUV 2WD,2400,5,5,430,370,403,,2500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,SEQUOIA 4WD,3.4,6,Auto(S10),10,Part-time 4-Wheel Drive,19,22,20,Standard SUV 4WD,2600,4,4,474,397,439,,3500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,SIENNA,2.5,4,Auto(AV-S6),6,"2-Wheel Drive, Front",36,36,36,"Special Purpose Vehicle, minivan 2WD",1450,7,7,247,244,246,2250.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,SIENNA AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,34,36,35,"Special Purpose Vehicle, minivan 4WD",1500,7,7,256,249,253,2000.0,,,Naturally Aspirated,Yes
+2025,BMW,TOYOTA,Supra 2.0,2.0,4,Auto(S8),8,"2-Wheel Drive, Rear",25,31,27,Two Seaters,2350,5,5,350,288,322,,2250.0,,Turbocharged,Yes
+2025,BMW,TOYOTA,Supra 3.0,3.0,6,Auto(S8),8,"2-Wheel Drive, Rear",23,31,26,Two Seaters,2450,5,5,385,289,342,,2750.0,,Turbocharged,Yes
+2025,BMW,TOYOTA,Supra 3.0,3.0,6,Manual(M6),6,"2-Wheel Drive, Rear",19,27,21,Two Seaters,3050,4,4,476,331,411,,5750.0,,Turbocharged,No
+2025,Toyota,TOYOTA,TACOMA 2WD,2.4,4,Auto(S8),8,"2-Wheel Drive, Rear",20,26,23,Small Pick-up Trucks 2WD,2300,5,5,435,343,394,,2000.0,,Turbocharged,No
+2025,Toyota,TOYOTA,TACOMA 4WD,2.4,4,Auto(S8),8,Part-time 4-Wheel Drive,19,24,21,Small Pick-up Trucks 4WD,2500,4,4,472,364,424,,3000.0,,Turbocharged,No
+2025,Toyota,TOYOTA,TACOMA 4WD MT,2.4,4,Manual(M6),6,Part-time 4-Wheel Drive,18,23,20,Small Pick-up Trucks 4WD,2600,4,4,499,393,452,,3500.0,,Turbocharged,No
+2025,Toyota,TOYOTA,TACOMA HYBRID 4WD,2.4,4,Auto(S8),8,Part-time 4-Wheel Drive,22,24,23,Standard Pick-up Trucks 4WD,2300,5,5,403,366,386,,2000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TACOMA HYBRID 4WD,2.4,4,Auto(S8),8,4-Wheel Drive,23,24,23,Standard Pick-up Trucks 4WD,2300,5,5,393,365,380,,2000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,2.4,4,Auto(S8),8,Part-time 4-Wheel Drive,19,23,21,Small Pick-up Trucks 4WD,2500,4,4,469,388,433,,3000.0,,Turbocharged,No
+2025,Toyota,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,2.4,4,Auto(S8),8,Part-time 4-Wheel Drive,20,23,21,Small Pick-up Trucks 4WD,2500,4,4,448,386,420,,3000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,2.4,4,Auto(S8),8,Part-time 4-Wheel Drive,19,24,21,Small Pick-up Trucks 4WD,2500,4,4,473,365,424,,3000.0,,Turbocharged,No
+2025,Toyota,TOYOTA,TACOMA SR5/SPORT/PRERUNNER 2WD,2.4,4,Auto(S8),8,"2-Wheel Drive, Rear",20,24,22,Small Pick-up Trucks 2WD,2400,5,5,436,365,404,,2500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TACOMA SR5/SPORT/PRERUNNER 2WD,2.4,4,Auto(S8),8,"2-Wheel Drive, Rear",21,26,23,Small Pick-up Trucks 2WD,2300,5,5,431,347,393,,2000.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TOYOTA CROWN AWD,2.5,4,Auto(AV),1,All Wheel Drive,42,41,41,Midsize Cars,1300,7,7,209,214,214,3000.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,TOYOTA CROWN AWD,2.4,4,Auto(AV-S6),6,All Wheel Drive,29,32,30,Midsize Cars,1750,6,6,303,272,293,750.0,,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TOYOTA CROWN SIGNIA AWD,2.5,4,Auto(AV-S6),6,All Wheel Drive,39,37,38,Small Station Wagons,1400,7,7,226,237,231,2500.0,,,Naturally Aspirated,Yes
+2025,Toyota,TOYOTA,TUNDRA 2WD,3.4,6,Auto(S10),10,"2-Wheel Drive, Rear",18,23,20,Standard Pick-up Trucks 2WD,2600,4,4,497,392,450,,3500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TUNDRA 2WD,3.4,6,Auto(S10),10,"2-Wheel Drive, Rear",18,23,20,Standard Pick-up Trucks 2WD,2600,4,4,493,379,442,,3500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TUNDRA 2WD,3.4,6,Auto(S10),10,"2-Wheel Drive, Rear",20,24,22,Standard Pick-up Trucks 2WD,2400,5,5,441,370,409,,2500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TUNDRA 4WD,3.4,6,Auto(S10),10,Part-time 4-Wheel Drive,17,22,19,Standard Pick-up Trucks 4WD,2750,4,4,510,398,460,,4250.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TUNDRA 4WD,3.4,6,Auto(S10),10,Part-time 4-Wheel Drive,17,22,19,Standard Pick-up Trucks 4WD,2750,4,4,518,408,468,,4250.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TUNDRA 4WD,3.4,6,Auto(S10),10,Part-time 4-Wheel Drive,19,22,20,Standard Pick-up Trucks 4WD,2600,4,4,474,397,439,,3500.0,,Turbocharged,Yes
+2025,Toyota,TOYOTA,TUNDRA 4WD PRO,3.4,6,Auto(S10),10,Part-time 4-Wheel Drive,18,20,19,Standard Pick-up Trucks 4WD,2750,4,4,483,435,461,,4250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Atlas,2.0,4,Auto(S8),8,"2-Wheel Drive, Front",20,26,22,Small SUV 2WD,2400,5,5,452,340,402,,2500.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Atlas 4Motion Peak Edition,2.0,4,Auto(S8),8,All Wheel Drive,18,25,20,Small SUV 4WD,2600,4,4,499,358,436,,3500.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Atlas Cross Sport,2.0,4,Auto(S8),8,"2-Wheel Drive, Front",20,26,23,Small SUV 2WD,2300,5,5,437,336,392,,2000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Atlas Cross Sport 4Motion,2.0,4,Auto(S8),8,All Wheel Drive,19,26,21,Small SUV 4WD,2500,4,4,481,346,420,,3000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Atlas SE 4Motion,2.0,4,Auto(S8),8,All Wheel Drive,19,26,21,Small SUV 4WD,2500,4,4,481,346,420,,3000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Atlas SEL 4Motion,2.0,4,Auto(S8),8,All Wheel Drive,18,25,21,Small SUV 4WD,2500,4,4,486,357,428,,3000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,GLI,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",25,35,29,Compact Cars,1800,6,6,360,252,311,500.0,,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,GLI,2.0,4,Manual(M6),6,"2-Wheel Drive, Front",26,36,30,Compact Cars,1750,6,6,346,247,301,750.0,,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Golf R,2.0,4,Auto(AM-S7),7,All Wheel Drive,22,31,25,Compact Cars,2550,5,5,397,289,349,,3250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,GTI,2.0,4,Auto(AM-S7),7,"2-Wheel Drive, Front",24,32,27,Compact Cars,1950,5,5,365,278,326,,250.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Jetta,1.5,4,Auto(S8),8,"2-Wheel Drive, Front",29,39,33,Compact Cars,1600,6,6,307,227,271,1500.0,,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Jetta Sport/SE/SEL,1.5,4,Auto(S8),8,"2-Wheel Drive, Front",29,40,33,Compact Cars,1600,6,6,310,224,271,1500.0,,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Taos,1.5,4,Auto(S8),8,"2-Wheel Drive, Front",28,36,31,Small SUV 2WD,1700,6,6,312,247,287,1000.0,,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Taos 4Motion,1.5,4,Auto(S8),8,All Wheel Drive,25,33,28,Small SUV 4WD,1900,6,6,355,274,318,0.0,,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Tiguan,2.0,4,Auto(S8),8,"2-Wheel Drive, Front",25,32,28,Small SUV 2WD,1900,6,6,355,277,320,0.0,,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Tiguan 4Motion,2.0,4,Auto(S8),8,All Wheel Drive,22,30,25,Small SUV 4WD,2100,5,5,398,294,351,,1000.0,,Turbocharged,Yes
+2025,Volkswagen Group of,Volkswagen,Tiguan S,2.0,4,Auto(S8),8,"2-Wheel Drive, Front",26,34,29,Small SUV 2WD,1800,6,6,345,260,307,500.0,,,Turbocharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",S60 B5,2.0,4,Auto(S8),8,"2-Wheel Drive, Front",27,36,30,Compact Cars,2100,6,6,333,248,295,,1000.0,,Turbocharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",S60 B5 AWD,2.0,4,Auto(S8),8,All Wheel Drive,25,34,28,Compact Cars,2300,6,6,352,265,313,,2000.0,,Turbocharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",S90 B6 AWD,2.0,4,Auto(S8),8,All Wheel Drive,23,31,26,Midsize Cars,2450,5,5,386,287,341,,2750.0,,Turbocharged+Supercharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",V90CC B6 AWD,2.0,4,Auto(S8),8,All Wheel Drive,22,29,25,Midsize Station Wagons,2550,5,5,403,304,358,,3250.0,,Turbocharged+Supercharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",XC40 B5 AWD,2.0,4,Auto(S8),8,All Wheel Drive,23,30,26,Small SUV 4WD,2450,5,5,381,296,343,,2750.0,,Turbocharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",XC60 B5 AWD,2.0,4,Auto(S8),8,All Wheel Drive,23,30,26,Small SUV 4WD,2450,5,5,384,292,343,,2750.0,,Turbocharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",XC90 B5 AWD,2.0,4,Auto(S8),8,All Wheel Drive,23,30,26,Standard SUV 4WD,2450,5,5,381,298,343,,2750.0,,Turbocharged,Yes
+2025,Volvo,"Volvo Cars of North America, LLC",XC90 B6 AWD,2.0,4,Auto(S8),8,All Wheel Drive,20,26,23,Standard SUV 4WD,2750,5,5,435,342,393,,4250.0,,Turbocharged+Supercharged,Yes

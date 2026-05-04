@@ -26,7 +26,7 @@ Description:
 
 ---
 
-#### Excel Workbook
+#### Excel Workbook (EPAExcel)
 >The Excel workbook was built using Power Query to connect directly to the cleaned CSV files, ensuring the data refreshes automatically if the source is updated.
 >>- **EV Pivot Table:** Average MPGe, annual fuel cost, GHG rating, and range by vehicle class.<br>
 >>- **ICE Pivot Table:** Average MPG, annual fuel cost, and GHG rating by vehicle class.<br>

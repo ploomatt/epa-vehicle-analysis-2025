@@ -8,7 +8,7 @@ Description:
 ## Project Overview
 
 #### Motivation
->With the growing adoption of electric vehicles, this project aims to use data analysis techniques to objectively compare EVs and ICE vehicles across three key dimensions: fuel cost, energy efficiency, and environmental impact. By working with real EPA data, this analysis seeks to uncover meaningful differences between the two vehicle types and provide data-driven insights for consumers, analysts, and employers evaluating analyst candidates.
+>With the growing adoption of electric vehicles, this project aims to use data analysis techniques to objectively compare EVs and ICE vehicles across three key dimensions: fuel cost, energy efficiency, and environmental impact. By working with real EPA data, this analysis uncovers measurable differences between the two vehicle types that reflect real world ownership considerations.
 
 #### Technologies Used
 >- Python (pandas): Data cleaning and preparation of raw EPA CSV files.<br>

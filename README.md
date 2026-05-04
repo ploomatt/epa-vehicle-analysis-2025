@@ -26,6 +26,16 @@ Description:
 
 ---
 
+#### Excel Workbook
+>The Excel workbook was built using Power Query to connect directly to the cleaned CSV files, ensuring the data refreshes automatically if the source is updated.
+>>- **EV Pivot Table:** Average MPGe, annual fuel cost, GHG rating, and range by vehicle class.<br>
+>>- **ICE Pivot Table:** Average MPG, annual fuel cost, and GHG rating by vehicle class.<br>
+>>- **Comparison Sheet:** Side by side EV vs ICE metrics by vehicle class using VLOOKUP formulas pulling from both pivot tables, including a calculated fuel cost difference column.<br>
+>>- **5-Year Fuel Cost Model:** Projects total fuel cost over an ownership period using EPA dataset averages. Inputs pull directly from pivot tables so the model updates automatically. Includes avg annual fuel cost, years of ownership, total fuel cost, total fuel savings choosing EV, and the EPA's official 5-year savings figure.<br>
+>>- Note: Purchase price, maintenance, insurance and depreciation are outside the scope of the EPA dataset and are not included in the model.
+
+---
+
 ## Data
 
 #### Data Source

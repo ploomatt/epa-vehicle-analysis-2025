@@ -57,16 +57,16 @@ Description:
 ## Dashboard Preview
 
 #### Page 1 — Overview
->![Overview](PowerBI/screenshots/overview.png)
+>![Overview](PowerBI/screenshots/overview.PNG)
 
 #### Page 2 — Cost Comparison
->![Cost Comparison](PowerBI/screenshots/cost_comparison.png)
+>![Cost Comparison](PowerBI/screenshots/cost_comparison.PNG)
 
 #### Page 3 — EV Deep Dive
->![EV Deep Dive](PowerBI/screenshots/ev_deep_dive.png)
+>![EV Deep Dive](PowerBI/screenshots/ev_deep_dive.PNG)
 
 #### Page 4 — Emissions & Environment
->![Emissions](PowerBI/screenshots/emissions.png)
+>![Emissions](PowerBI/screenshots/emissions.PNG)
 
 ---
 

@@ -54,6 +54,22 @@ Description:
 
 ---
 
+## Dashboard Preview
+
+#### Page 1 — Overview
+>![Overview](PowerBI/screenshots/Page 1 Overview.png)
+
+#### Page 2 — Cost Comparison
+>![Cost Comparison](PowerBI/screenshots/Page 2 Cost Comparison.png)
+
+#### Page 3 — EV Deep Dive
+>![EV Deep Dive](PowerBI/screenshots/Page 3 EV Deep Dive.png)
+
+#### Page 4 — Emissions & Environment
+>![Emissions](PowerBI/screenshots/Page 4 Emissions & Environment.png)
+
+---
+
 ## Results and Insights
 
 >The project uncovers significant differences between EVs and ICE vehicles across cost, efficiency, and emissions.<br>

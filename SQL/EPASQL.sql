@@ -1,6 +1,6 @@
--- EV vs ICE Vehicle Analysis 
--- Tables: EPA_EV_Clean, EPA_FE_Ratings_Clean
--- Author Mathew Gueon
+--EV vs ICE Vehicle Analysis 
+--Tables: EPA_EV_Clean, EPA_FE_Ratings_Clean
+--Author Mathew Gueon
 
 --1. How many vehicles are in each dataset presented?
 SELECT 'EV' AS Vehicle_Type, COUNT(*) AS Total_Vehicles
@@ -12,7 +12,7 @@ SELECT 'ICE' AS Vehicle_Type, COUNT(*) AS Total_Vehicles
 	-- EV            665
 	-- ICE           868
 
---2. What vehicle classes exist in each dataset?
+--2.What vehicle classes exist in each dataset?
 --a) EV
 SELECT DISTINCT Vehicle_Class
 	FROM ProjectEPA.dbo.EPA_EV_Clean
@@ -39,7 +39,7 @@ ORDER BY Vehicle_Class, Vehicle_Type
 	-- EV Compact Cars $910 vs ICE $2,249 | EV Large Cars $813 vs ICE $2,688
 
 
--- 4. Average 5 year savings (EV vs ICE)
+--4.Average 5 year savings(EV vs ICE)
 SELECT Vehicle_Type, ROUND(AVG(Savings_5yr), 0) AS Avg_5yr_Savings
 FROM (
    SELECT 'EV' AS Vehicle_Type, Savings_5yr
@@ -148,7 +148,7 @@ SELECT Vehicle_Class,
        ROUND(AVG(TRY_CAST(Charge_Time_240V_hrs AS FLOAT)),1) AS Avg_240V_Charge_Hrs
 	FROM ProjectEPA.dbo.EPA_EV_Clean
 GROUP BY Vehicle_Class
-ORDER BY Avg_240V_Charge_Hrs ASC\
+ORDER BY Avg_240V_Charge_Hrs ASC
 	--Minicompact Cars have the lowest average charge time while
 	--two seaters have the highest average charge time.
 
